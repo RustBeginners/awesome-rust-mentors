@@ -43,7 +43,7 @@ To apply simply open an issue. There is a template setup to help you get started
 
 ### Oli ([@oli-obk](https://github.com/oli-obk))
 * **Pronouns**: he/him
-* **Contact**: ([zulip](https://rust-lang.zulipchat.com/#narrow/stream/146212-t-compiler.2Fconst-eval)) or ([github](https://github.com/oli-obk)) preferred, but ([discord](https://discordapp.com/invite/rust-lang)) works, too
+* **Contact**: zulip ([@oli](https://rust-lang.zulipchat.com/)) or ([github](https://github.com/oli-obk)) preferred, but discord ([oli#1337](https://discordapp.com/invite/rust-lang)) works, too
 * **Spoken Languages**: _German_, English
 * **Topics**: miri, const eval, error messages and other diagnostics, optimizations, MIR
 
