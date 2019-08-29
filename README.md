@@ -1,14 +1,14 @@
 # awesome-rust-mentors
 
-A curated list of mentors who are interested in helping new contributors get involved in rust.
+A curated list of mentors who are interested in helping new contributors get involved in Rust.
 
 ### Code of Conduct
 
-All mentors and mentees are expected to abide by the rust communitiy [code of conduct](https://github.com/rust-lang/rust/blob/master/CODE_OF_CONDUCT.md). Violators will be removed from this list.
+All mentors and mentees are expected to abide by the Rust community [code of conduct](https://github.com/rust-lang/rust/blob/master/CODE_OF_CONDUCT.md). Violators will be removed from this list.
 
 ## New Mentors
 
-To apply simply open an issue. There is a template setup to help you get started quickly.
+To apply, simply open an issue. There is a template set up to help you get started quickly.
 
 ### Expectations For Mentors
 
