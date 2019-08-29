@@ -32,7 +32,7 @@ To apply simply open an issue. There is a template setup to help you get started
 * **Pronouns**: she/her
 * **Contact**: E-mail: rust@m-ou.se, or Twitter: [@m_ou_se](https://twitter.com/m_ou_se), or IRC: M-ou-se on Freenode
 * **Spoken Languages**: English, Dutch
-* **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI
+* **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes
 
 ### Søren Mortensen - [@sorenmortensen](https://github.com/sorenmortensen)
 * **Pronouns**: he/him
