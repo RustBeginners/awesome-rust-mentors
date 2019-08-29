@@ -41,6 +41,12 @@ To apply simply open an issue. There is a template setup to help you get started
 * **Topics**: Learning Rust from nothing or experienced newcomers
 * **Additional Resources**: I maintain the Static Assertions crate and so I'd be happy to teach people how it works
 
+### Oli - ([@oli-obk](https://github.com/oli-obk))
+* **Pronouns**: he/him
+* **Contact**: ([zulip](https://rust-lang.zulipchat.com/#narrow/stream/146212-t-compiler.2Fconst-eval)) or ([github](https://github.com/oli-obk)) preferred, but ([discord](https://discordapp.com/invite/rust-lang)) works, too
+* **Spoken Languages**: _German_, English
+* **Topics**: miri, const eval, error messages and other diagnostics, optimizations, MIR
+
 ### Shady Khalifa ([@shekohex](https://github.com/shekohex))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@shekohex](https://twitter.com/ShekoHex))
