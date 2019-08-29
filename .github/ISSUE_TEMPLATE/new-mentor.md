@@ -11,6 +11,6 @@ assignees: ''
 * **Github Username or equivalent handle**: 
 * **Pronouns**: This section is optional, if you'd prefer to leave this blank or remove it that's fine, but it's helpful to trans people if everyone has their pronouns so they don't feel singled out.
 * **Contact**: your preferred method of contact
-* **Spoken Languages**: Languages you're comfortable mentoring in, if you do not specify this English will be assumed.
+* **Spoken Languages**: Languages you're comfortable mentoring in; if you do not specify this English will be assumed. Please _emphasise_ your preferred language if you list more than one.
 * **Topics**: topics of interest or projects that you work on that you're comfortable mentoring.
 * **Additional resources**: Any other learning resources that you maintain that you would like to share
