@@ -25,13 +25,13 @@ To apply simply open an issue. There is a template setup to help you get started
 ### Lucio Franco ([@LucioFranco](https://github.com/LucioFranco))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@lucio_d_franco](https://twitter.com/lucio_d_franco))
-* **Spoken Languages**: English, Italian, French
+* **Spoken Languages**: _English_, Italian, French
 * **Topics**: Async io, networking, distributed systems, game dev, compilers
 
 ### Mara Bos ([@m-ou-se](https://github.com/m-ou-se))
 * **Pronouns**: she/her
 * **Contact**: Email ([rust@m-ou.se](mailto:rust@m-ou.se)), Twitter ([@m_ou_se](https://twitter.com/m_ou_se)), or IRC (M-ou-se on Freenode)
-* **Spoken Languages**: English, Dutch
+* **Spoken Languages**: English, _Dutch_
 * **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes
 
 ### Shady Khalifa ([@shekohex](https://github.com/shekohex))
