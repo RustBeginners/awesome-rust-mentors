@@ -12,7 +12,11 @@ To apply, simply open an issue. There is a template set up to help you get start
 
 ### Expectations For Mentors
 
+Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/1
+
 ### Expectations For Mentees
+
+Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/11
 
 ## Mentors
 
