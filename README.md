@@ -34,6 +34,13 @@ To apply simply open an issue. There is a template setup to help you get started
 * **Spoken Languages**: English, _Dutch_
 * **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes
 
+### Nikolai Vazquez ([@nvzqz](https://github.com/nvzqz))
+* **Pronouns**: he/him
+* **Contact**: Email ([nikvzqz@gmail.com](mailto:nikvzqz@gmail.com))
+* **Spoken Languages**: _English_, Spanish, German
+* **Topics**: Learning Rust from nothing or experienced newcomers
+* **Additional Resources**: I maintain the Static Assertions crate and so I'd be happy to teach people how it works
+
 ### Shady Khalifa ([@shekohex](https://github.com/shekohex))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@shekohex](https://twitter.com/ShekoHex))
