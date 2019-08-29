@@ -32,7 +32,7 @@ Additional resources: Any other learning resources that you maintain that you wo
 
 -->
 
-### Preferred Name ([@github_handle](url:://to.github.com/handle)
+### Preferred Name ([@github_handle](url:://to.github.com/handle))
 * **Pronouns**:
 * **Contact**:
 * **Spoken Languages**:
