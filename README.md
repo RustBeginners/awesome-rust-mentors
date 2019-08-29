@@ -24,7 +24,7 @@ To apply simply open an issue. There is a template setup to help you get started
 
 ### Lucio Franco - [@LucioFranco](https://github.com/LucioFranco)
 * **Pronouns**: He/Him
-* **Contact**: twitter [@lucio_d_franco](https://twitter.com/lucio_d_franco)
+* **Contact**: Twitter - [@lucio_d_franco](https://twitter.com/lucio_d_franco)
 * **Spoken Languages**: English, Italian, French
 * **Topics**: async io, networking, distributed systems, game dev, compilers
 
