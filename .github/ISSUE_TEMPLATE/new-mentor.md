@@ -2,7 +2,7 @@
 name: New Mentor
 about: Information on a new mentor to be added to the list
 title: ''
-labels: ''
+labels: mentor application
 assignees: ''
 
 ---
