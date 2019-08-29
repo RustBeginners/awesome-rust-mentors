@@ -28,9 +28,15 @@ To apply simply open an issue. There is a template setup to help you get started
 * **Spoken Languages**: English, Italian, French
 * **Topics**: async io, networking, distributed systems, game dev, compilers
 
+### Mara Bos - [@m-ou-se](https://github.com/m-ou-se)
+* **Pronouns**: she/her
+* **Contact**: E-mail: rust@m-ou.se, or Twitter: [@m_ou_se](https://twitter.com/m_ou_se), or IRC: M-ou-se on Freenode
+* **Spoken Languages**: English, Dutch
+* **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes
+
 ### Shady Khalifa - [@shekohex](https://github.com/shekohex)
 * **Pronouns**: He/Him
-* **Contact**: Twitter - (@shekohex)
+* **Contact**: Twitter - [@shekohex](https://twitter.com/ShekoHex)
 * **Spoken Languages**: **Arabic**, English
 * **Topics**: Networking, FFI, CLI, Parsers, Development Tools, Web (Server-Side)
 
