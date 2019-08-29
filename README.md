@@ -64,6 +64,18 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 * **Spoken Languages**: English
 * **Topics**: Beginners/the basics, developer tools, CLI, Rust–Swift/Objective-C interop
 
+### William ([@Firstyear](https://github.com/Firstyear/))
+* **Pronouns**: he/him/they/them
+* **Contact**: Twitter ([@Erstejahre](https://twitter.com/Erstejahre)), Email ([william@blackhats.net.au](mailto:william@blackhats.net.au))
+* **Spoken Languages**: English
+* **Topics**: Code review, beginners, C-FFI, concurrency, data structures, security, identity management aka authentication
+* **Additional Resources**:
+    * [Programming lessons and methods](https://fy.blackhats.net.au/blog/html/2019/02/26/programming_lessons_and_methods.html)
+    * [LDAP guide](https://fy.blackhats.net.au/blog/html/pages/ldap_guide_part_1_foundations.html)
+    * [Using rust generics to enforce db record state](https://fy.blackhats.net.au/blog/html/2019/04/13/using_rust_generics_to_enforce_db_record_state.html)
+    * [CPU atomics and ordering explained](https://fy.blackhats.net.au/blog/html/2019/07/16/cpu_atomics_and_orderings_explained.html)
+
+
 ## Additional Resources
 * rust-learning - https://github.com/ctjhoa/rust-learning
 * awesome-rust - https://github.com/rust-unofficial/awesome-rust#resources
