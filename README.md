@@ -1,4 +1,4 @@
-# Awesome Rust Mentors
+# awesome-rust-mentors
 
 A curated list of mentors who are interested in helping new contributors get involved in rust.
 
@@ -21,3 +21,7 @@ To apply simply open an issue. There is a template setup to help you get started
 * **Contact**: Twitter - [@yaahc_](https://twitter.com/yaahc_)
 * **Spoken Languages**: English
 * **Topics**: beginners, community outreach, cargo, clippy, tracing, CLI
+
+## Additional Resources
+* rust-learning - https://github.com/ctjhoa/rust-learning
+* awesome-rust - https://github.com/rust-unofficial/awesome-rust#resources
