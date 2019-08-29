@@ -28,6 +28,12 @@ To apply simply open an issue. There is a template setup to help you get started
 * **Spoken Languages**: English, Italian, French
 * **Topics**: async io, networking, distributed systems, game dev, compilers
 
+### Shady Khalifa - [@shekohex](https://github.com/shekohex)
+* **Pronouns**: He/Him
+* **Contact**: Twitter - (@shekohex)
+* **Spoken Languages**: **Arabic**, English
+* **Topics**: Networking, FFI, CLI, Parsers, Development Tools, Web (Server-Side)
+
 ### Søren Mortensen - [@sorenmortensen](https://github.com/sorenmortensen)
 * **Pronouns**: he/him
 * **Contact**: Twitter - [@nerosnm](https://twitter.com/nerosnm) or email - [soren@neros.dev](mailto:soren@neros.dev)
