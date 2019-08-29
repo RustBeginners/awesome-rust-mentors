@@ -48,9 +48,9 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 
 ### Oli ([@oli-obk](https://github.com/oli-obk))
 * **Pronouns**: he/him
-* **Contact**: zulip ([@oli](https://rust-lang.zulipchat.com/)) or ([github](https://github.com/oli-obk)) preferred, but discord ([oli#1337](https://discordapp.com/invite/rust-lang)) works, too
+* **Contact**: Zulip ([@oli](https://rust-lang.zulipchat.com/)) or ([github](https://github.com/oli-obk)) preferred, but discord ([oli#1337](https://discordapp.com/invite/rust-lang)) works, too
 * **Spoken Languages**: _German_, English
-* **Topics**: miri, const eval, error messages and other diagnostics, optimizations, MIR
+* **Topics**: Miri, const eval, error messages and other diagnostics, optimizations, MIR
 
 ### Shady Khalifa ([@shekohex](https://github.com/shekohex))
 * **Pronouns**: he/him
