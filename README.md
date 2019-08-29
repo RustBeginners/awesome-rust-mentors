@@ -28,6 +28,13 @@ To apply simply open an issue. There is a template setup to help you get started
 * **Spoken Languages**: English, Italian, French
 * **Topics**: async io, networking, distributed systems, game dev, compilers
 
+### Nikolai Vazquez - [@nvzqz](https://github.com/nvzqz)
+* **Pronouns**: he/him/his
+* **Contact**: nikvzqz@gmail.com
+* **Spoken Languages**: English, Spanish, German
+* **Topics**: Learning Rust from nothing or experienced newcomers
+* **Additional resources**: I maintain the Static Assertions crate and so I'd be happy to teach people how it works
+
 ### Søren Mortensen - [@sorenmortensen](https://github.com/sorenmortensen)
 * **Pronouns**: he/him
 * **Contact**: Twitter - [@nerosnm](https://twitter.com/nerosnm) or email - [soren@neros.dev](mailto:soren@neros.dev)
