@@ -66,9 +66,9 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 
 ### William ([@Firstyear](https://github.com/Firstyear/))
 * **Pronouns**: he/him/they/them
-* **Contact**: Twitter ([@Erstejahre](https://twitter.com/Erstejahre)), Email (william at blackhats.net.au)
+* **Contact**: Twitter ([@Erstejahre](https://twitter.com/Erstejahre)), Email ([william@blackhats.net.au](mailto:william@blackhats.net.au))
 * **Spoken Languages**: English
-* **Topics**: Beginners, C-FFI, concurrency, data structures, security, identity management aka authentication, code review
+* **Topics**: Code review, beginners, C-FFI, concurrency, data structures, security, identity management aka authentication
 * **Additional Resources**:
     * [Programming lessons and methods](https://fy.blackhats.net.au/blog/html/2019/02/26/programming_lessons_and_methods.html)
     * [LDAP guide](https://fy.blackhats.net.au/blog/html/pages/ldap_guide_part_1_foundations.html)
