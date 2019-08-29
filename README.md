@@ -23,7 +23,7 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 ### Bhargav Voleti ([@bIgBV](https://github.com/bIgBV))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@2093bps](https://twitter.com/2093bps))
-* **Spoken Languages**: English, Hindi
+* **Spoken Languages**: _English_, Hindi
 * **Topics**: Beginners, async, distributed systems
 
 ### Jane Lusby ([@yaahc](https://github.com/yaahc))
