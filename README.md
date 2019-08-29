@@ -21,6 +21,7 @@ To apply, simply open an issue. There is a template set up to help you get start
 * **Contact**: Twitter ([@yaahc_](https://twitter.com/yaahc_))
 * **Spoken Languages**: English
 * **Topics**: Beginners, community outreach, cargo, clippy, tracing, CLI
+* **Aditional Resources**: [My work tracker](https://github.com/yaahc/prs/projects/1), I'm happy to mentor any of these issues
 
 ### Lucio Franco ([@LucioFranco](https://github.com/LucioFranco))
 * **Pronouns**: he/him
