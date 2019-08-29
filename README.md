@@ -16,35 +16,35 @@ To apply simply open an issue. There is a template setup to help you get started
 
 ## Mentors
 
-### Jane Lusby - [@yaahc](https://github.com/yaahc)
+### Jane Lusby ([@yaahc](https://github.com/yaahc))
 * **Pronouns**: she/her
-* **Contact**: Twitter - [@yaahc_](https://twitter.com/yaahc_)
+* **Contact**: Twitter ([@yaahc_](https://twitter.com/yaahc_))
 * **Spoken Languages**: English
-* **Topics**: beginners, community outreach, cargo, clippy, tracing, CLI
+* **Topics**: Beginners, community outreach, cargo, clippy, tracing, CLI
 
-### Lucio Franco - [@LucioFranco](https://github.com/LucioFranco)
-* **Pronouns**: He/Him
-* **Contact**: Twitter - [@lucio_d_franco](https://twitter.com/lucio_d_franco)
+### Lucio Franco ([@LucioFranco](https://github.com/LucioFranco))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@lucio_d_franco](https://twitter.com/lucio_d_franco))
 * **Spoken Languages**: English, Italian, French
-* **Topics**: async io, networking, distributed systems, game dev, compilers
+* **Topics**: Async io, networking, distributed systems, game dev, compilers
 
-### Mara Bos - [@m-ou-se](https://github.com/m-ou-se)
+### Mara Bos ([@m-ou-se](https://github.com/m-ou-se))
 * **Pronouns**: she/her
-* **Contact**: E-mail: rust@m-ou.se, or Twitter: [@m_ou_se](https://twitter.com/m_ou_se), or IRC: M-ou-se on Freenode
+* **Contact**: Email ([rust@m-ou.se](mailto:rust@m-ou.se)), Twitter ([@m_ou_se](https://twitter.com/m_ou_se)), or IRC (M-ou-se on Freenode)
 * **Spoken Languages**: English, Dutch
 * **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes
 
-### Shady Khalifa - [@shekohex](https://github.com/shekohex)
-* **Pronouns**: He/Him
-* **Contact**: Twitter - [@shekohex](https://twitter.com/ShekoHex)
-* **Spoken Languages**: **Arabic**, English
-* **Topics**: Networking, FFI, CLI, Parsers, Development Tools, Web (Server-Side)
-
-### Søren Mortensen - [@sorenmortensen](https://github.com/sorenmortensen)
+### Shady Khalifa ([@shekohex](https://github.com/shekohex))
 * **Pronouns**: he/him
-* **Contact**: Twitter - [@nerosnm](https://twitter.com/nerosnm) or email - [soren@neros.dev](mailto:soren@neros.dev)
+* **Contact**: Twitter ([@shekohex](https://twitter.com/ShekoHex))
+* **Spoken Languages**: _Arabic_, English
+* **Topics**: Networking, FFI, CLI, parsers, development tools, web (server-side)
+
+### Søren Mortensen ([@sorenmortensen](https://github.com/sorenmortensen))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@nerosnm](https://twitter.com/nerosnm)) or email ([soren@neros.dev](mailto:soren@neros.dev))
 * **Spoken Languages**: English
-* **Topics**: beginners/the basics, developer tools, CLI, Rust–Swift/Objective-C interop
+* **Topics**: Beginners/the basics, developer tools, CLI, Rust–Swift/Objective-C interop
 
 ## Additional Resources
 * rust-learning - https://github.com/ctjhoa/rust-learning
