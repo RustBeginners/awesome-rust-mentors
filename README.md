@@ -22,6 +22,12 @@ To apply simply open an issue. There is a template setup to help you get started
 * **Spoken Languages**: English
 * **Topics**: beginners, community outreach, cargo, clippy, tracing, CLI
 
+### Lucio Franco - [@LucioFranco](https://github.com/LucioFranco)
+* **Pronouns**: He/Him
+* **Contact**: twitter [@lucio_d_franco](https://twitter.com/lucio_d_franco)
+* **Spoken Languages**: English, Italian, French
+* **Topics**: async io, networking, distributed systems, game dev, compilers
+
 ## Additional Resources
 * rust-learning - https://github.com/ctjhoa/rust-learning
 * awesome-rust - https://github.com/rust-unofficial/awesome-rust#resources
