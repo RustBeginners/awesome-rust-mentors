@@ -10,6 +10,7 @@ All mentors and mentees are expected to abide by the rust communitiy [code of co
 
 To apply to be a new mentor please open an issue including but not limited to the following information:
 
+* **Preferred Name**: This is optional, you can go by just your online handle if you prefer
 * **Github Username or equivalent handle**
 * **Pronouns**: This section is optional, if you'd prefer to leave this blank that's fine, but it's helpful to trans people if everyone has their pronouns so they don't feel singled out.
 * **Contact**: your preferred method of contact
@@ -17,9 +18,13 @@ To apply to be a new mentor please open an issue including but not limited to th
 * **Topics**: topics of interest or projects that you work on that you're comfortable mentoring.
 * **Additional resources**: Any other learning resources that you maintain that you would like to share
 
+## Expectations For Mentors
+
+## Expectations For Mentees
+
 # Mentors
 
-### @yaahc
+### Jane Lusby - [@yaahc](https://github.com/yaahc)
 * **Pronouns**: she/her
 * **Contact**: Twitter - [@yaahc_](https://twitter.com/yaahc_)
 * **Spoken Languages**: English
