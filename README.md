@@ -28,12 +28,24 @@ To apply simply open an issue. There is a template setup to help you get started
 * **Spoken Languages**: English, Italian, French
 * **Topics**: async io, networking, distributed systems, game dev, compilers
 
+### Mara Bos - [@m-ou-se](https://github.com/m-ou-se)
+* **Pronouns**: she/her
+* **Contact**: E-mail: rust@m-ou.se, or Twitter: [@m_ou_se](https://twitter.com/m_ou_se), or IRC: M-ou-se on Freenode
+* **Spoken Languages**: English, Dutch
+* **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes
+
 ### Nikolai Vazquez - [@nvzqz](https://github.com/nvzqz)
 * **Pronouns**: he/him/his
 * **Contact**: nikvzqz@gmail.com
 * **Spoken Languages**: English, Spanish, German
 * **Topics**: Learning Rust from nothing or experienced newcomers
 * **Additional resources**: I maintain the Static Assertions crate and so I'd be happy to teach people how it works
+
+### Shady Khalifa - [@shekohex](https://github.com/shekohex)
+* **Pronouns**: He/Him
+* **Contact**: Twitter - [@shekohex](https://twitter.com/ShekoHex)
+* **Spoken Languages**: **Arabic**, English
+* **Topics**: Networking, FFI, CLI, Parsers, Development Tools, Web (Server-Side)
 
 ### Søren Mortensen - [@sorenmortensen](https://github.com/sorenmortensen)
 * **Pronouns**: he/him
