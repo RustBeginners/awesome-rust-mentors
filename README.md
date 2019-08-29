@@ -21,6 +21,6 @@ To apply to be a new mentor please open an issue including but not limited to th
 
 ### @yaahc
 * Pronouns: she/her
-* Preferred contact: **Twitter**: @yaahc_
+* Contact: **Twitter** - @yaahc_
 * Spoken Languages: English
 * Topics: beginners, community outreach, cargo, clippy, tracing, CLI
