@@ -20,6 +20,12 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 
 ## Mentors
 
+### Bhargav Voleti ([@bIgBV](https://github.com/bIgBV))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@2093bps](https://twitter.com/2093bps))
+* **Spoken Languages**: _English_, Hindi
+* **Topics**: Beginners, async, distributed systems
+
 ### Jane Lusby ([@yaahc](https://github.com/yaahc))
 * **Pronouns**: she/her
 * **Contact**: Twitter ([@yaahc_](https://twitter.com/yaahc_))
