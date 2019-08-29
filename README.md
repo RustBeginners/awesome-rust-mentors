@@ -35,7 +35,7 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 
 ### Mara Bos ([@m-ou-se](https://github.com/m-ou-se))
 * **Pronouns**: she/her
-* **Contact**: Email ([rust@m-ou.se](mailto:rust@m-ou.se)), Twitter ([@m_ou_se](https://twitter.com/m_ou_se)), or IRC (M-ou-se on Freenode)
+* **Contact**: Email ([rust@m-ou.se](mailto:rust@m-ou.se)), Twitter ([@m_ou_se](https://twitter.com/m_ou_se)), IRC (M-ou-se on Freenode)
 * **Spoken Languages**: English, _Dutch_
 * **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes
 
@@ -48,7 +48,7 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 
 ### Oli ([@oli-obk](https://github.com/oli-obk))
 * **Pronouns**: he/him
-* **Contact**: Zulip ([@oli](https://rust-lang.zulipchat.com/)) or ([github](https://github.com/oli-obk)) preferred, but discord ([oli#1337](https://discordapp.com/invite/rust-lang)) works, too
+* **Contact**: Zulip ([@oli](https://rust-lang.zulipchat.com/)), Github ([@oli-obk](https://github.com/oli-obk)), Discord ([oli#1337](https://discordapp.com/invite/rust-lang))
 * **Spoken Languages**: _German_, English
 * **Topics**: Miri, const eval, error messages and other diagnostics, optimizations, MIR
 
@@ -60,7 +60,7 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 
 ### Søren Mortensen ([@sorenmortensen](https://github.com/sorenmortensen))
 * **Pronouns**: he/him
-* **Contact**: Twitter ([@nerosnm](https://twitter.com/nerosnm)) or email ([soren@neros.dev](mailto:soren@neros.dev))
+* **Contact**: Twitter ([@nerosnm](https://twitter.com/nerosnm)), Email ([soren@neros.dev](mailto:soren@neros.dev))
 * **Spoken Languages**: English
 * **Topics**: Beginners/the basics, developer tools, CLI, Rust–Swift/Objective-C interop
 
