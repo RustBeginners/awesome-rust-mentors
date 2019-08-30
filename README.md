@@ -33,6 +33,11 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 * **Topics**: Beginners, community outreach, cargo, clippy, tracing, CLI
 * **Aditional Resources**: [My work tracker](https://github.com/yaahc/prs/projects/1), I'm especially happy to mentor any of these issues
 
+### Luca Barbato ([@lu-zero](https://github.com/lu-zero))
+* **Contact**: IRC (lu_zero on [freenode.net](http://webchat.freenode.net/?channels=%23rust-av&uio=d4)), Telegram ([lu_zero](https://telegram.me/lu_zero))
+* **Spoken Languages**: English, Italian
+* **Topics**: Multimedia, cargo, proc-macros, CLI
+
 ### Lucio Franco ([@LucioFranco](https://github.com/LucioFranco))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@lucio_d_franco](https://twitter.com/lucio_d_franco))
