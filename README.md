@@ -20,6 +20,12 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 
 ## Mentors
 
+### Andreas Fischer ([@Vengarioth](https://github.com/vengarioth))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@vengarioth](https://twitter.com/vengarioth)), Email ([vengarioth@gmail.com](mailto:vengarioth@gmail.com))
+* **Spoken Languages**: English, German
+* **Topics**: Games programming, graphics & rendering, netcode (games), parsers, starting a company in germany
+
 ### Bernardo Meurer ([@lovesegfault](https://github.com/lovesegfault/))
 * **Preferred Pronouns**: he/him
 * **Contact**: Twitter ([@lovesegfault](https://twitter.com/lovesegfault)), Email ([bernardo@standard.ai](mailto://bernardo@standard.ai))
