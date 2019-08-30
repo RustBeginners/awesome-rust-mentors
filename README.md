@@ -20,6 +20,13 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 
 ## Mentors
 
+### Bernardo Meurer ([@lovesegfault](https://github.com/lovesegfault/))
+* **Preferred Pronouns**: he/him
+* **Contact**: Twitter ([@lovesegfault](https://twitter.com/lovesegfault)), Email ([bernardo@standard.ai](mailto://bernardo@standard.ai))
+* **Spoken Languages**: Portuguese, _English_
+* **Topics**: Beginners, intermediates, video, cameras, data transports, distributed systems
+* **Additional Resources**: You can see the [slides of the talk I gave](https://lovesegfault.com/files/rustlab-2019.pdf) this year as a reference on the kind of stuff I work with.
+
 ### Bhargav Voleti ([@bIgBV](https://github.com/bIgBV))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@2093bps](https://twitter.com/2093bps))
