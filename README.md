@@ -83,7 +83,7 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 * **Spoken Languages**: _Arabic_, English
 * **Topics**: Networking, FFI, CLI, parsers, development tools, web (server-side)
 
-### Søren Mortensen ([@sorenmortensen](https://github.com/sorenmortensen))
+### Søren Mortensen ([@nerosnm](https://github.com/nerosnm))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@nerosnm](https://twitter.com/nerosnm)), Email ([soren@neros.dev](mailto:soren@neros.dev))
 * **Spoken Languages**: English
