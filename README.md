@@ -102,5 +102,6 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 
 
 ## Additional Resources
+* Rust Language Cheat Sheet - https://cheats.rs/
 * rust-learning - https://github.com/ctjhoa/rust-learning
 * awesome-rust - https://github.com/rust-unofficial/awesome-rust#resources
