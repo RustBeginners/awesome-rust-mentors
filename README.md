@@ -100,6 +100,10 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
     * [Using rust generics to enforce db record state](https://fy.blackhats.net.au/blog/html/2019/04/13/using_rust_generics_to_enforce_db_record_state.html)
     * [CPU atomics and ordering explained](https://fy.blackhats.net.au/blog/html/2019/07/16/cpu_atomics_and_orderings_explained.html)
 
+### Zack M. Davis ([@zackmdavis](https://github.com/zackmdavis))
+* **Contact**: Twitter ([@zackmdavis](https://twitter.com/zackmdavis)), email ([code@zackmdavis.net](mailto:code@zackmdavis.net)), Discord (_zackmdavis#3944_)
+* **Spoken Languages**: English
+* **Topics**: Language basics, rustc development (especially diagnostics)
 
 ## Additional Resources
 * Rust Language Cheat Sheet - https://cheats.rs/
