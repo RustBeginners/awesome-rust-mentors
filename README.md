@@ -58,6 +58,13 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 * **Spoken Languages**: _German_, English
 * **Topics**: Miri, const eval, error messages and other diagnostics, optimizations, MIR
 
+### Ravi ([@wafflespeanut](https://github.com/wafflespeanut))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@wafflespeanut](https://twitter.com/wafflespeanut))
+* **Spoken Languages**: English, *Tamil*
+* **Topics**: Beginners, CLI, web, coding practices, clean + maintainable code.
+* **Additional Resources**: I'm actively working on [paperclip](https://github.com/wafflespeanut/paperclip), a WIP OpenAPI tooling library. I'd love to give a hand if anyone's interested!
+
 ### Shady Khalifa ([@shekohex](https://github.com/shekohex))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@shekohex](https://twitter.com/ShekoHex))
