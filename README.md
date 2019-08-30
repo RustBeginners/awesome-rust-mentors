@@ -18,6 +18,10 @@ Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/
 
 Work in progress - https://github.com/RustBeginners/awesome-rust-mentors/issues/11
 
+### Missing Mentor Topics
+
+If there are any topics of interest that you're looking for that aren't covered by any of the mentors here just open an issue to let us know! We will do our best to find a mentor for that topic / library / whatever and get them to sign up.
+
 ## Mentors
 
 ### Bernardo Meurer ([@lovesegfault](https://github.com/lovesegfault/))
