@@ -27,7 +27,7 @@ If there are any topics of interest that you're looking for that aren't covered 
 ### Andreas Fischer ([@Vengarioth](https://github.com/vengarioth))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@vengarioth](https://twitter.com/vengarioth)), Email ([vengarioth@gmail.com](mailto:vengarioth@gmail.com))
-* **Spoken Languages**: English, German
+* **Spoken Languages**: English, _German_
 * **Topics**: Games programming, graphics & rendering, netcode (games), parsers, starting a company in germany
 
 ### Bernardo Meurer ([@lovesegfault](https://github.com/lovesegfault/))
