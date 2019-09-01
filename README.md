@@ -28,7 +28,7 @@ If there are any topics of interest that you're looking for that aren't covered 
 * **Pronouns**: he/him
 * **Contact** Twitter ([@llogiq](https://twitter.com/llogiq)), reddit ([/u/llogiq](https://reddit.com/user/llogiq))
 * **Spoken Languages**: English, _German_
-* **Topics**: procedural macros, writing lints, unsafe code, performance, bit twiddling, public speaking
+* **Topics**: Procedural macros, writing lints, unsafe code, performance, bit twiddling, public speaking
 
 ### Andreas Fischer ([@Vengarioth](https://github.com/vengarioth))
 * **Pronouns**: he/him
