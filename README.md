@@ -49,6 +49,12 @@ If there are any topics of interest that you're looking for that aren't covered 
 * **Spoken Languages**: _English_, Hindi
 * **Topics**: Beginners, async, distributed systems
 
+### Geoff Shannon ([@RadicalZephyr](https://github.com/RadicalZephyr))
+* **Pronouns**: he/him
+* **Contact**: Discord (_@radicalzephyr#6728_)
+* **Spoken Languages**: English
+* **Topics**: Beginners, intermediates, async/await, macros (by-example and procedural), parsing, tokio
+
 ### Jane Lusby ([@yaahc](https://github.com/yaahc))
 * **Pronouns**: she/her
 * **Contact**: Twitter ([@yaahc_](https://twitter.com/yaahc_))
