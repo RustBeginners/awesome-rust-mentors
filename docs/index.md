@@ -1,4 +1,4 @@
-# awesome-rust-mentors
+# [awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors)
 
 A curated list of mentors who are interested in helping new contributors get involved in Rust.
 
@@ -8,7 +8,7 @@ All mentors and mentees are expected to abide by the Rust community [code of con
 
 ## New Mentors
 
-To apply, simply open an issue. There is a template set up to help you get started quickly.
+To apply, simply [open an issue](https://github.com/RustBeginners/awesome-rust-mentors/issues/new?assignees=&labels=mentor+application&template=new-mentor.md&title=). There is a template set up to help you get started quickly.
 
 ### Expectations For Mentors
 
