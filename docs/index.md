@@ -54,7 +54,7 @@ If there are any topics of interest that you're looking for that aren't covered 
 * **Spoken Languages**: _English_, Hindi
 * **Topics**: Beginners, async, distributed systems
 
-### Brian Anderson ([brson](https://brson.github.io/))
+### Brian Anderson ([@brson](https://brson.github.io/))
 * **Pronouns**: he/him
 * **Contact**: Telegram ([MrBrianAnderson](https://t.me/MrBrianAnderson))
 * **Spoken Languages**: English
