@@ -24,6 +24,11 @@ If there are any topics of interest that you're looking for that aren't covered 
 
 ## Mentors
 
+### Ana Hobden ([@hoverbear](https://github.com/hoverbear))
+* **Contact:** Email ([ana@hoverbear.org](mailto:ana@hoverbear.org), Twitter ([@a_hoverbear](https://twitter.com/a_hoverbear))
+* **Spoken Language:** _English_, some German, some Chinese
+* **Topics:** Distributed systems, software evolution, infrastructure, architecture, chaos testing, workshops, proc-macros
+
 ### Andre Bogus ([@llogiq](https://github.com/llogiq))
 * **Pronouns**: he/him
 * **Contact** Twitter ([@llogiq](https://twitter.com/llogiq)), reddit ([/u/llogiq](https://reddit.com/user/llogiq))
