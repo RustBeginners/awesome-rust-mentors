@@ -99,7 +99,7 @@ If there are any topics of interest that you're looking for that aren't covered 
 
 ### Nikolai Vazquez ([@nvzqz](https://github.com/nvzqz))
 * **Pronouns**: he/him
-* **Contact**: Email ([nikvzqz@gmail.com](mailto:nikvzqz@gmail.com))
+* **Contact**: Twitter ([@NikolaiVazquez](https://twitter.com/NikolaiVazquez)), Email ([nikvzqz@gmail.com](mailto:nikvzqz@gmail.com)), Discord ([nvzqz#4477](https://discordapp.com/invite/rust-lang))
 * **Spoken Languages**: _English_, Spanish, German
 * **Topics**: Learning Rust from nothing or experienced newcomers
 * **Additional Resources**: I maintain [Static Assertions](https://github.com/nvzqz/static-assertions-rs), so I'd be happy to teach people how it works
