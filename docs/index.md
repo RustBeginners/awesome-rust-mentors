@@ -102,7 +102,7 @@ If there are any topics of interest that you're looking for that aren't covered 
 * **Contact**: Email ([nikvzqz@gmail.com](mailto:nikvzqz@gmail.com))
 * **Spoken Languages**: _English_, Spanish, German
 * **Topics**: Learning Rust from nothing or experienced newcomers
-* **Additional Resources**: I maintain the Static Assertions crate and so I'd be happy to teach people how it works
+* **Additional Resources**: I maintain [Static Assertions](https://github.com/nvzqz/static-assertions-rs), so I'd be happy to teach people how it works
 
 ### Oli ([@oli-obk](https://github.com/oli-obk))
 * **Pronouns**: he/him
