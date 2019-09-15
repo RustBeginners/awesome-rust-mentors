@@ -32,19 +32,19 @@ If there are any topics of interest that you're looking for that aren't covered 
 ### Andre Bogus ([@llogiq](https://github.com/llogiq))
 * **Pronouns**: he/him
 * **Contact** Twitter ([@llogiq](https://twitter.com/llogiq)), reddit ([/u/llogiq](https://reddit.com/user/llogiq))
-* **Spoken Languages**: English, _German_
+* **Spoken Languages**: _German_, English
 * **Topics**: Procedural macros, writing lints, unsafe code, performance, bit twiddling, public speaking
 
 ### Andreas Fischer ([@Vengarioth](https://github.com/vengarioth))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@vengarioth](https://twitter.com/vengarioth)), Email ([vengarioth@gmail.com](mailto:vengarioth@gmail.com))
-* **Spoken Languages**: English, _German_
+* **Spoken Languages**: _German_, English
 * **Topics**: Games programming, graphics & rendering, netcode (games), parsers, starting a company in germany
 
 ### Bernardo Meurer ([@lovesegfault](https://github.com/lovesegfault/))
 * **Preferred Pronouns**: he/him
 * **Contact**: Twitter ([@lovesegfault](https://twitter.com/lovesegfault)), Email ([bernardo@standard.ai](mailto://bernardo@standard.ai))
-* **Spoken Languages**: Portuguese, _English_
+* **Spoken Languages**: _English_, Portuguese
 * **Topics**: Beginners, intermediates, video, cameras, data transports, distributed systems
 * **Additional Resources**: You can see the [slides of the talk I gave](https://lovesegfault.com/files/rustlab-2019.pdf) this year as a reference on the kind of stuff I work with.
 
@@ -94,7 +94,7 @@ If there are any topics of interest that you're looking for that aren't covered 
 ### Mara Bos ([@m-ou-se](https://github.com/m-ou-se))
 * **Pronouns**: she/her
 * **Contact**: Email ([rust@m-ou.se](mailto:rust@m-ou.se)), Twitter ([@m_ou_se](https://twitter.com/m_ou_se)), IRC (M-ou-se on Freenode)
-* **Spoken Languages**: English, _Dutch_
+* **Spoken Languages**: _Dutch_, English
 * **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes
 
 ### Nikolai Vazquez ([@nvzqz](https://github.com/nvzqz))
@@ -113,7 +113,7 @@ If there are any topics of interest that you're looking for that aren't covered 
 ### Ravi ([@wafflespeanut](https://github.com/wafflespeanut))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@wafflespeanut](https://twitter.com/wafflespeanut))
-* **Spoken Languages**: English, *Tamil*
+* **Spoken Languages**: _Tamil_, English
 * **Topics**: Beginners, CLI, web, coding practices, clean + maintainable code.
 * **Additional Resources**: I'm actively working on [paperclip](https://github.com/wafflespeanut/paperclip), a WIP OpenAPI tooling library. I'd love to give a hand if anyone's interested!
 
