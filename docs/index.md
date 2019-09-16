@@ -12,7 +12,17 @@ To apply, simply [open an issue](https://github.com/RustBeginners/awesome-rust-m
 
 ### Expectations For Mentors
 
-[Work in progress](https://github.com/RustBeginners/awesome-rust-mentors/issues/1)
+First and foremost, a mentors job is to be a friend and guide. Your should provide encouragement and be your mentee's constant cheerleader and enable them to achieve their goals.
+
+You are not expected to tutor them on rust, or to be their manager, though you may help in these ways if you wish.
+
+You should provide constructive advice, pass on strategies you've learned in the process of getting involved in open source communities. For example, if your mentee is working on something cool consider encouraging them to blog about it.
+
+You should do your best to be responsive, < 1 day response times preferrably, even if that response is just to say you'll be busy for a few days.
+
+You should be prepared to connect your mentee with other rustaceans who can better help when you're not prepared or available to help.
+
+You should help your mentee learn how to contribute, not necessarily to personally find and assign work to your mentee, though mentors who are also maintainers on projects their mentee is contributing to can expect to take a more direct role in helping their mentee through the PR process.
 
 ### Expectations For Mentees
 
