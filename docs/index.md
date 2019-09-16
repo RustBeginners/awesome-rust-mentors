@@ -104,8 +104,8 @@ If there are any topics of interest that you're looking for that aren't covered 
 ### Mara Bos ([@m-ou-se](https://github.com/m-ou-se))
 * **Pronouns**: she/her
 * **Contact**: Email ([rust@m-ou.se](mailto:rust@m-ou.se)), Twitter ([@m_ou_se](https://twitter.com/m_ou_se)), IRC (M-ou-se on Freenode)
-* **Spoken Languages**: _Dutch_, English
-* **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes
+* **Spoken Languages**: English, Dutch
+* **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes, shared memory, memory ordering/atomics/caches
 
 ### Nikolai Vazquez ([@nvzqz](https://github.com/nvzqz))
 * **Pronouns**: he/him
