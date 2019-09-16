@@ -87,7 +87,7 @@ If there are any topics of interest that you're looking for that aren't covered 
 * **Pronouns**: she/her
 * **Contact**: Twitter ([@yaahc_](https://twitter.com/yaahc_))
 * **Spoken Languages**: English
-* **Topics**: Beginners, community outreach, cargo, clippy, tracing, CLI
+* **Topics**: Beginners, community outreach, cargo, clippy, tracing, CLI, exercism.io, code review
 * **Aditional Resources**: [My work tracker](https://github.com/yaahc/prs/projects/1), I'm especially happy to mentor any of these issues
 
 ### Jonathan Turner ([@jonathandturner](https://github.com/jonathandturner))
