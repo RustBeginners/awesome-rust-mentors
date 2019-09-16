@@ -73,6 +73,16 @@ If there are any topics of interest that you're looking for that aren't covered 
 * **Spoken Languages**: English
 * **Topics**: Beginners, intermediates, async/await, macros (by-example and procedural), parsing, tokio
 
+### Gray Olson ([@termhn](https://github.com/termhn))
+* **Pronouns**: she/her
+* **Contact**: Twitter ([@fu5ha](https://twitter.com/fu5ha))
+* **Spoken Languages**: English
+* **Topics**: Beginners, graphics, gamedev
+* **Additional resources**:
+    * [learn-gfx-hal](https://rust-tutorials.github.io/learn-gfx-hal/)
+    * [learn-rendy](https://github.com/rust-tutorials/learn-rendy/)
+    * [Introduction to PBR](https://www.grayolson.me/blog/posts/pbr-intro/)<Paste>
+
 ### Jane Lusby ([@yaahc](https://github.com/yaahc))
 * **Pronouns**: she/her
 * **Contact**: Twitter ([@yaahc_](https://twitter.com/yaahc_))
