@@ -24,6 +24,8 @@ If there are any topics of interest that you're looking for that aren't covered 
 
 See https://rustbeginners.github.io/awesome-rust-mentors/
 
+{% include mentors.md %}
+
 ## Additional Resources
 * [Rust Language Cheat Sheet](https://cheats.rs/)
 * [rust-learning](https://github.com/ctjhoa/rust-learning)

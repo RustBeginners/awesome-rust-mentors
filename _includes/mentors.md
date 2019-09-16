@@ -1,29 +1,3 @@
-# [awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors)
-
-A curated list of mentors who are interested in helping new contributors get involved in Rust.
-
-### Code of Conduct
-
-All mentors and mentees are expected to abide by the Rust community [code of conduct](https://github.com/rust-lang/rust/blob/master/CODE_OF_CONDUCT.md). Violators will be removed from this list.
-
-## New Mentors
-
-To apply, simply [open an issue](https://github.com/RustBeginners/awesome-rust-mentors/issues/new?assignees=&labels=mentor+application&template=new-mentor.md&title=). There is a template set up to help you get started quickly.
-
-### Expectations For Mentors
-
-[Work in progress](https://github.com/RustBeginners/awesome-rust-mentors/issues/1)
-
-### Expectations For Mentees
-
-[Work in progress](https://github.com/RustBeginners/awesome-rust-mentors/issues/11)
-
-### Missing Mentor Topics
-
-If there are any topics of interest that you're looking for that aren't covered by any of the mentors here just open an issue to let us know! We will do our best to find a mentor for that topic / library / whatever and get them to sign up.
-
-## Mentors
-
 ### Ana Hobden ([@hoverbear](https://github.com/hoverbear))
 * **Contact:** Email ([ana@hoverbear.org](mailto:ana@hoverbear.org), Twitter ([@a_hoverbear](https://twitter.com/a_hoverbear))
 * **Spoken Language:** _English_, some German, some Chinese
@@ -161,15 +135,13 @@ If there are any topics of interest that you're looking for that aren't covered 
 * **Spoken Languages**: English
 * **Topics**: Language basics, rustc development (especially diagnostics)
 
-## Additional Resources
-* [Rust Language Cheat Sheet](https://cheats.rs/)
-* [rust-learning](https://github.com/ctjhoa/rust-learning)
-* [awesome-rust](https://github.com/rust-unofficial/awesome-rust#resources)
+<h1 id="mentors-end"></h1>
 
 <script>
 let people = [];
 let e = document.getElementById("mentors");
-while (e.nodeName != 'H3') { e = e.nextSibling; }
+while (e.nextSibling.nodeName != 'H3') e.nextSibling.remove();
+e = e.nextSibling;
 do {
     let person = [];
     do {
@@ -187,4 +159,5 @@ people.forEach(person => {
         e.parentNode.insertBefore(x, e);
     });
 });
+e.remove();
 </script>
