@@ -90,6 +90,12 @@ If there are any topics of interest that you're looking for that aren't covered 
 * **Topics**: Beginners, community outreach, cargo, clippy, tracing, CLI
 * **Aditional Resources**: [My work tracker](https://github.com/yaahc/prs/projects/1), I'm especially happy to mentor any of these issues
 
+### Jonathan Turner ([@jonathandturner](https://github.com/jonathandturner))
+* **Pronouns**: any gender pronoun
+* **Contact**: Email, Discord (_jturner#3961_), Twitter ([@jntrnr](https://twitter.com/jntrnr))
+* **Spoken Languages**: English
+* **Topics**: Developer experiences, growing projects, Emulation, CLI, and Beginner/Intermediate Rust
+
 ### Luca Barbato ([@lu-zero](https://github.com/lu-zero))
 * **Contact**: IRC (lu_zero on [freenode.net](http://webchat.freenode.net/?channels=%23rust-av&uio=d4)), Telegram ([lu_zero](https://telegram.me/lu_zero))
 * **Spoken Languages**: English, Italian
