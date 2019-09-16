@@ -1,4 +1,4 @@
-{% include ../README.md %}
+{% include_relative ../README.md %}
 
 <script>
 let people = [];
