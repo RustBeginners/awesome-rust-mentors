@@ -20,7 +20,7 @@ Mentors are expected to...
 Mentors are not expected to...
 * Be a tutor. Mentors and Tutors are not the same, one advises, the other teaches. You are not expected to teach your mentee the language, only to advise them on how to participate in the Rust community.
 * Be a manager. You're not expected to assign work to your mentees and make sure it gets done, thats a job in its own right. Though if you're maintaining a project that your mentee is getting involved in maybe this doesn't apply to you, but thats more of a maintainer role than a mentor role.
-* Be payed. This is a volunteer service. Please do not plan on asking mentees to pay you for your time.
+* Be paid. This is a volunteer service. Please do not plan on asking mentees to pay you for your time.
 
 ### Expectations For Mentees
 
