@@ -87,6 +87,15 @@
 * **Spoken Languages**: English, Dutch
 * **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes, shared memory, memory ordering/atomics/caches
 
+### Mike Tang ([@daogangtang](https://github.com/daogangtang))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@daogangtang](https://twitter.com/daogangtang))
+* **Spoken Languages**: Chinese, English
+* **Topics**: Beginners, community meetup, wasm, web framework, orm, substrate...
+* **Additional Resources**:
+  - [rust.cc](https://rust.cc)
+  - [rustforce.net](https://rustforce.net)
+
 ### Nikolai Vazquez ([@nvzqz](https://github.com/nvzqz))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@NikolaiVazquez](https://twitter.com/NikolaiVazquez)), Email ([nikvzqz@gmail.com](mailto:nikvzqz@gmail.com)), Discord ([nvzqz#4477](https://discordapp.com/invite/rust-lang))
