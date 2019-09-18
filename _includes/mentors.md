@@ -93,8 +93,8 @@
 * **Spoken Languages**: Chinese, English
 * **Topics**: Beginners, community meetup, wasm, web framework, orm, substrate...
 * **Additional Resources**:
-  - [rust.cc](http://rust.cc)
-  - [rustforce.net](http://rustforce.net)
+  - [rust.cc](https://rust.cc)
+  - [rustforce.net](https://rustforce.net)
 
 ### Nikolai Vazquez ([@nvzqz](https://github.com/nvzqz))
 * **Pronouns**: he/him
