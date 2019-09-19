@@ -2,7 +2,7 @@
 
 ## New mentees
 
-Welcome to awesome rust mentors! This project is a currated list of Rustaceans who are ready and willing to act as mentors to new Rustaceans looking to get more involved in the language and/or it's community. If that sounds interesting to you check out the rules and our list of mentors, pick one at random or something, and make a friend! 
+Welcome to awesome rust mentors! This project is a currated list of Rustaceans who are ready and willing to act as mentors to new Rustaceans looking to get more involved in the language and/or it's community. If that sounds interesting to you check out the rules and our list of mentors, pick one at random or maybe based of their bio, and make a friend! 
 
 ### Expectations For Mentees
 
