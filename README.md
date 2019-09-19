@@ -1,6 +1,25 @@
-# [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/)
+# [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/) - [github](https://github.com/RustBeginners/awesome-rust-mentors)
 
-### Code of Conduct
+## New mentees
+
+Welcome to awesome rust mentors! This project is a currated list of Rustaceans who are ready and willing to act as mentors to new Rustaceans looking to get more involved in the language and/or it's community. If that sounds interesting to you check out the rules and our list of mentors, pick one at random or something, and make a friend! 
+
+### Expectations For Mentees
+
+Mentees are expected to...
+* Remember that our mentors are all volunteers, be kind and friendly.
+* Inform us if you have any problems with your mentor, such as being non responsive for a long period of time, approximately > 1 week or so, or if they violate the CoC.
+* Provide feedback, on this repository or on your mentor, let us know if there are any ways in which we are not serving your needs, this project is all about you after all, help us help you.
+
+### Missing Mentor Topics
+
+If there are any topics of interest that you're looking for that aren't covered by any of the mentors here just open an issue to let us know! We will do our best to find a mentor for that topic / library / whatever and get them to sign up.
+
+### Exercism.io
+
+If you're looking for someone to mentor solutions for exercism.io just look for mentors that have `exercism.io` as one of their mentor topics, they will be happy to help.
+
+## Code of Conduct
 
 All mentors and mentees are expected to abide by the Rust community [code of conduct](https://github.com/rust-lang/rust/blob/master/CODE_OF_CONDUCT.md). Violators will be removed from this list.
 
@@ -22,20 +41,6 @@ Mentors are not expected to...
 * Be a manager. You're not expected to assign work to your mentees and make sure it gets done, thats a job in its own right. Though if you're maintaining a project that your mentee is getting involved in maybe this doesn't apply to you, but thats more of a maintainer role than a mentor role.
 * Be paid. This is a volunteer service. Please do not plan on asking mentees to pay you for your time.
 
-### Expectations For Mentees
-
-Mentees are expected to...
-* Remember that our mentors are all volunteers, be kind and friendly.
-* Inform us if you have any problems with your mentor, such as being non responsive for a long period of time, approximately > 1 week or so, or if they violate the CoC.
-* Provide feedback, on this repository or on your mentor, let us know if there are any ways in which we are not serving your needs, this project is all about you after all, help us help you.
-
-### Missing Mentor Topics
-
-If there are any topics of interest that you're looking for that aren't covered by any of the mentors here just open an issue to let us know! We will do our best to find a mentor for that topic / library / whatever and get them to sign up.
-
-### Exercism.io
-
-If you're looking for someone to mentor solutions for exercism.io just look for mentors that have `exercism.io` as one of their mentor topics, they will be happy to help.
 
 ## Mentors
 
