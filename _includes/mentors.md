@@ -40,8 +40,8 @@
     * [my blog](https://brson.github.io/blog/index.html) and [other writings](https://brson.github.io/writing.html)
     * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
     * [Rust API Guidelines](https://rust-lang-nursery.github.io/api-guidelines/).
-    
-## Dimitri Sabadie ([phaazon](https://github.com/phaazon))
+
+### Dimitri Sabadie ([phaazon](https://github.com/phaazon))
 - **Pronouns**: he/him.
 - **Contact**: Twitter [@phaazon](https://twitter.com/phaazon_)
 - **Spoken Languages**: French, English.
