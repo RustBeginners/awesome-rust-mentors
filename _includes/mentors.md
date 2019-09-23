@@ -116,6 +116,13 @@
 * **Topics**: Beginners, CLI, web, coding practices, clean + maintainable code.
 * **Additional Resources**: I'm actively working on [paperclip](https://github.com/wafflespeanut/paperclip), a WIP OpenAPI tooling library. I'd love to give a hand if anyone's interested!
 
+### Robert Winslow ([@rw](https://github.com/rw))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@robert_winslow](https://twitter.com/robert_winslow))
+* **Spoken Languages**: English
+* **Topics**: Distributed systems, low-latency, testing, formal methods, Bayesian statistics, machine learning, deep learning, serialization. async/await, [FlatBuffers](https://github.com/google/flatbuffers), testing, minimizing heap allocations, lifetimes, traits, borrow-checker, API design
+* **Additional Resources**: Video of a [talk I presented at Mozilla HQ on FlatBuffers in Rust](https://www.youtube.com/watch?v=YsiQDX20lXI).
+
 ### Shady Khalifa ([@shekohex](https://github.com/shekohex))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@shekohex](https://twitter.com/ShekoHex))
