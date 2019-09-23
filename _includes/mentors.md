@@ -109,6 +109,12 @@
 * **Spoken Languages**: _German_, English
 * **Topics**: Miri, const eval, error messages and other diagnostics, optimizations, MIR
 
+### Phil Krones ([@flip1995](https://github.com/flip1995))
+* **Pronouns**: he/him
+* **Contact**: GitHub ([@flip1995](https://github.com/flip1995)), E-Mail ([hello@philkrones.com](mailto:hello@philkrones.com)), Discord ([flip1995#2683](https://discordapp.com/users/618807455651987476); not that active there)
+* **Spoken Languages**: German, English
+* **Topics**: Beginners, Clippy, Lints, Diagnostics
+
 ### Ravi ([@wafflespeanut](https://github.com/wafflespeanut))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@wafflespeanut](https://twitter.com/wafflespeanut))
