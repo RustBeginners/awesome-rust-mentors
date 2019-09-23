@@ -40,6 +40,13 @@
     * [my blog](https://brson.github.io/blog/index.html) and [other writings](https://brson.github.io/writing.html)
     * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
     * [Rust API Guidelines](https://rust-lang-nursery.github.io/api-guidelines/).
+    
+## Dimitri Sabadie ([phaazon](https://github.com/phaazon))
+- **Pronouns**: he/him.
+- **Contact**: Twitter [@phaazon](https://twitter.com/phaazon_)
+- **Spoken Languages**: French, English.
+- **Topics**: graphics programming, procedural macros, unsafe bindings & FFI, functional programming & type theory, parsing, type-driven architectures, blockchains, low-level optimizations, cargo tools, writing RFCs.
+- **Additional Resources**: My blog, https://phaazon.net/blog.
 
 ### Geoff Shannon ([@RadicalZephyr](https://github.com/RadicalZephyr))
 * **Pronouns**: he/him
