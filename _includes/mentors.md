@@ -1,6 +1,6 @@
 ### Ana Hobden ([@hoverbear](https://github.com/hoverbear))
 * **Contact:** Email ([ana@hoverbear.org](mailto:ana@hoverbear.org), Twitter ([@a_hoverbear](https://twitter.com/a_hoverbear))
-* **Spoken Language:** _English_, some German, some Chinese
+* **Spoken Language:** _English_, some German, some Mandarin
 * **Topics:** Distributed systems, software evolution, infrastructure, architecture, chaos testing, workshops, proc-macros
 
 ### Andre Bogus ([@llogiq](https://github.com/llogiq))
@@ -98,7 +98,7 @@
 ### Mike Tang ([@daogangtang](https://github.com/daogangtang))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@daogangtang](https://twitter.com/daogangtang))
-* **Spoken Languages**: Chinese, English
+* **Spoken Languages**: Mandarin, English
 * **Topics**: Beginners, community meetup, wasm, web framework, orm, substrate...
 * **Additional Resources**:
   - [rust.cc](https://rust.cc)
