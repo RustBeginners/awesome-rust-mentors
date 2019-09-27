@@ -137,6 +137,11 @@
 * **Topics**: Distributed systems, low-latency, testing, formal methods, Bayesian statistics, machine learning, deep learning, serialization. async/await, [FlatBuffers](https://github.com/google/flatbuffers), testing, minimizing heap allocations, lifetimes, traits, borrow-checker, API design
 * **Additional Resources**: Video of a [talk I presented at Mozilla HQ on FlatBuffers in Rust](https://www.youtube.com/watch?v=YsiQDX20lXI).
 
+### Roman Proskuryakov ([@kpp](https://github.com/kpp))
+* **Contact**: Github ([@kpp](https://github.com/kpp)), E-Mail (r.proskuryakoff@gmail.com), Telegram (gitkpp), 
+* **Spoken Languages**: English, Russian
+* **Topics**: Beginner/Intermediate Rust, async, futures, CI
+
 ### Shady Khalifa ([@shekohex](https://github.com/shekohex))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@shekohex](https://twitter.com/ShekoHex))
