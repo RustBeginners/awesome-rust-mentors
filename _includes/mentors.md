@@ -43,7 +43,7 @@
 
 ### Dimitri Sabadie ([@phaazon](https://github.com/phaazon))
 * **Pronouns**: he/him
-* **Contact**: Twitter ([@phaazon](https://twitter.com/phaazon_))
+* **Contact**: Twitter ([@phaazon](https://twitter.com/phaazon_)), IRC (phaazon on Freenode), Email ([dimitri.sabadie@gmail.com](mailto://dimitri.sabadie@gmail.com)), Discord (phaazon#0545)
 * **Spoken Languages**: French, English
 * **Topics**: Graphics programming, procedural macros, unsafe bindings & FFI, functional programming & type theory, parsing, type-driven architectures, blockchains, low-level optimizations, cargo tools, writing RFCs.
 * **Additional Resources**:
