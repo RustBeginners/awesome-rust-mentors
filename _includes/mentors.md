@@ -41,6 +41,13 @@
     * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
     * [Rust API Guidelines](https://rust-lang-nursery.github.io/api-guidelines/).
 
+### Cyryl Płotnicki ([@cyplo](https://github.com/cyplo/))
+* **Pronouns**: he/him/they/them
+* **Contact**: Twitter ([@cyplo](https://twitter.com/cyplo))
+* **Spoken Languages**: English, Polish
+* **Topics**: mentoring others (so meta!), project management, brand-new-to-rust, structuring tests, property-based tests, fuzzers, distributed systems, I/O
+* **Additional Resources**: I sometimes write about [Rust](https://blog.cyplo.dev/tags/rust/) on my [blog](https://blog.cyplo.dev/)
+
 ### Dimitri Sabadie ([@phaazon](https://github.com/phaazon))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@phaazon](https://twitter.com/phaazon_)), IRC (phaazon on Freenode), Email ([dimitri.sabadie@gmail.com](mailto://dimitri.sabadie@gmail.com)), Discord (phaazon#0545)
