@@ -149,6 +149,12 @@
 * **Spoken Languages**: English, Russian
 * **Topics**: Beginner/Intermediate Rust, async, futures, CI
 
+### Seun ([@joshuaaminu](https://github.com/joshuaaminu)
+* **Pronouns**: he/him
+* **Contact**: Whatsapp (https://wa.me/2348170321148), Twitter ([@seun_ja](https://twitter.com/seun_ja)
+* **Spoken Languages**: English
+* **Topics**: Rust generally, as a beginner
+
 ### Shady Khalifa ([@shekohex](https://github.com/shekohex))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@shekohex](https://twitter.com/ShekoHex))
