@@ -85,6 +85,13 @@
 * **Spoken Languages**: English
 * **Topics**: Developer experiences, growing projects, Emulation, CLI, and Beginner/Intermediate Rust
 
+### Joshua Mir ([@joshua-mir](https://github.com/joshua-mir))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@jam10o](https://twitter.com/jam10o)), Gitter Parity technical support chat: ([@joshua-mir](https://gitter.im/paritytech/parity))
+* **Spoken Languages**: English
+* **Topics**: Beginner Rust, cryptocurrency, blockchain, parity-ethereum, Substrate runtime development
+* **Additional Resources**: [Substrate Docs](https://substrate.dev), [Parity (Ethereum) Wiki](https://wiki.parity.io), [Substrate Community Resources](https://substrate.dev/en/community) 
+
 ### Luca Barbato ([@lu-zero](https://github.com/lu-zero))
 * **Contact**: IRC (lu_zero on [freenode.net](http://webchat.freenode.net/?channels=%23rust-av&uio=d4)), Telegram ([lu_zero](https://telegram.me/lu_zero))
 * **Spoken Languages**: English, Italian
