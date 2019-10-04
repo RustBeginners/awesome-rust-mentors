@@ -89,7 +89,7 @@
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@jam10o](https://twitter.com/jam10o)), Gitter Parity technical support chat: ([@joshua-mir](https://gitter.im/paritytech/parity))
 * **Spoken Languages**: English
-* **Topics**: Beginner Rust, parity-ethereum, Substrate runtime development
+* **Topics**: Beginner Rust, cryptocurrency, blockchain, parity-ethereum, Substrate runtime development
 * **Additional Resources**: [Substrate Docs](https://substrate.dev), [Parity (Ethereum) Wiki](https://wiki.parity.io), [Substrate Community Resources](https://substrate.dev/en/community) 
 
 ### Luca Barbato ([@lu-zero](https://github.com/lu-zero))
