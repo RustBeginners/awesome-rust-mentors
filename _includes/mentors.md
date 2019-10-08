@@ -15,6 +15,13 @@
 * **Spoken Languages**: _German_, English
 * **Topics**: Games programming, graphics & rendering, netcode (games), parsers, starting a company in germany
 
+### Ben ([@gnunicorn](https://github.com/gnunicorn))
+* **Pronouns**: he/him
+* **Contact**: Matrix ([@ben:matrix.parity.io](https://matrix.to/#/@ben:matrix.parity.io)), Gitter ([@gnunicorn](https://gitter.im/gnunicorn)), Twitter ([@gnunicornBen](https://twitter.com/gnunicornBen))
+* **Spoken Languages**: English, German
+* **Topics**: [Hacktoberfest](https://substrate.dev/hacktoberfest/), libp2p, substrate, blockchain, decentralization, networking, p2p, cryptogovernance, cli, web, webassembly, data structures, architecture
+* **Additional Resources**: [personal website](https://gnunicorn.org)
+
 ### Bernardo Meurer ([@lovesegfault](https://github.com/lovesegfault/))
 * **Preferred Pronouns**: he/him
 * **Contact**: Twitter ([@lovesegfault](https://twitter.com/lovesegfault)), Email ([bernardo@standard.ai](mailto://bernardo@standard.ai))
