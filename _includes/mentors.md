@@ -56,6 +56,12 @@
 * **Additional Resources**:
     * [My blog](https://phaazon.net/blog)
 
+### Eliza Weisman ([@hawkw](https://github.com/hawkw))
+* **Pronouns**: she/her
+* **Contact**: Email ([eliza@buoyant.io](mailto://eliza@buoyant.io)), Discord (_mycoliza#5146_)
+* **Spoken Languages**: English
+* **Topics**: Async I/O, networking, concurrent data structures. I'm pretty busy and would generally prefer to provide mentoring for contributions to projects I already contribute to ([`tokio`](https://github.com/tokio-rs/tokio), [`tracing`](https://github.com/tokio-rs/tracing),  [`tower`](https://github.com/tower-rs/tower), etc).
+
 ### Geoff Shannon ([@RadicalZephyr](https://github.com/RadicalZephyr))
 * **Pronouns**: he/him
 * **Contact**: Discord (_@radicalzephyr#6728_)
