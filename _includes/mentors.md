@@ -69,6 +69,12 @@
 * **Spoken Languages**: English
 * **Topics**: Async I/O, networking, concurrent data structures. I'm pretty busy and would generally prefer to provide mentoring for contributions to projects I already contribute to ([`tokio`](https://github.com/tokio-rs/tokio), [`tracing`](https://github.com/tokio-rs/tracing),  [`tower`](https://github.com/tower-rs/tower), etc).
 
+### Esteban Küber ([@estebank](https://github.com/estebank))
+* **Pronouns**: he/his
+* **Contact**: Twitter ([@ekuber](https://twitter.com/ekuber))
+* **Spoken Languages**: English, Spanish
+* **Topics**: Beginners, `rustc` (parser, diagnostics and in general).
+
 ### Geoff Shannon ([@RadicalZephyr](https://github.com/RadicalZephyr))
 * **Pronouns**: he/him
 * **Contact**: Discord (_@radicalzephyr#6728_)
