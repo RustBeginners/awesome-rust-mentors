@@ -171,7 +171,7 @@
 * **Additional Resources**: Video of a [talk I presented at Mozilla HQ on FlatBuffers in Rust](https://www.youtube.com/watch?v=YsiQDX20lXI).
 
 ### Roman Proskuryakov ([@kpp](https://github.com/kpp))
-* **Contact**: Github ([@kpp](https://github.com/kpp)), E-Mail (r.proskuryakoff@gmail.com), Telegram (gitkpp), 
+* **Contact**: Github ([@kpp](https://github.com/kpp)), Email ([r.proskuryakoff@gmail.com](mailto:r.proskuryakoff@gmail.com)), Telegram ([gitkpp](https://t.me/gitkpp)), 
 * **Spoken Languages**: English, Russian
 * **Topics**: Beginner/Intermediate Rust, async, futures, CI
 
