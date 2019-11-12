@@ -69,6 +69,12 @@
 * **Spoken Languages**: English
 * **Topics**: Async I/O, networking, concurrent data structures. I'm pretty busy and would generally prefer to provide mentoring for contributions to projects I already contribute to ([`tokio`](https://github.com/tokio-rs/tokio), [`tracing`](https://github.com/tokio-rs/tracing),  [`tower`](https://github.com/tower-rs/tower), etc).
 
+### Erich Gubler ([@erichdongubler](https://github.com/erichdongubler))
+* **Pronouns**: he/him
+* **Contact**: Email ([erichdongubler@gmail.com](mailto://erichdongubler@gmail.com))
+* **Spoken Languages**: English, Portuguese (BR)
+* **Topics**: Forensics/parsing, workflow (setting up projects, architecture)
+
 ### Esteban Küber ([@estebank](https://github.com/estebank))
 * **Pronouns**: he/his
 * **Contact**: Twitter ([@ekuber](https://twitter.com/ekuber))
