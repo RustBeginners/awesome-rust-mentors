@@ -8,7 +8,11 @@ assignees: ''
 ---
 
 <!--
-To apply please edit `_includes/mentors.md` to add an entry for yourself and open a PR with the changes. The various recommended sections are documented below along with an example of how to format it.
+To apply please edit `_includes/mentors.md` to add an entry for yourself and open a PR with the changes.
+
+If this is your first time contributing to open source check out https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution for guidance on how to submit a contribution.
+
+The various recommended sections are documented below along with an example of how to format it.
 
 Preferred Name: This is optional, you can go by just your online handle if you prefer.
 
