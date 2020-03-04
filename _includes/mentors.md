@@ -1,3 +1,9 @@
+### Amit Upadhyay ([@amitu](https://github.com/amitu))
+* **Pronouns**: Amit Upadhyay
+* **Contact**: Email ([amitu@acko.com](mailto:amitu@acko.com))
+* **Spoken Languages**: _English_, Hindi
+* **Topics**: Web Development, CLI, Database, [Realm](http://fifthtry.com/amitu/realm/)
+
 ### Ana Hobden ([@hoverbear](https://github.com/hoverbear))
 * **Contact:** Email ([ana@hoverbear.org](mailto:ana@hoverbear.org), Twitter ([@a_hoverbear](https://twitter.com/a_hoverbear))
 * **Spoken Language:** _English_, some German, some Mandarin
@@ -70,6 +76,12 @@
 * **Additional Resources**:
     * [My blog](https://phaazon.net/blog)
 
+## Dylan DPC ([@Dylan-DPC](https://github.com/Dylan-DPC))
+* **Pronouns**: he/him
+* **Contact**: Discord (@dpc), Twitter ([@dpc_22](https://twitter.com/dpc_22))
+* **Spoken Languages**: _English_, German
+* **Topics**: Open to anything that is sort of in the general-purpose domain
+
 ### Eliza Weisman ([@hawkw](https://github.com/hawkw))
 * **Pronouns**: she/her
 * **Contact**: Email ([eliza@buoyant.io](mailto://eliza@buoyant.io)), Discord (_mycoliza#5146_)
@@ -87,6 +99,12 @@
 * **Contact**: Twitter ([@ekuber](https://twitter.com/ekuber))
 * **Spoken Languages**: English, Spanish
 * **Topics**: Beginners, `rustc` (parser, diagnostics and in general).
+
+### Gabe Martinez ([@mystal](https://github.com/mystal))
+* **Pronouns**: they/them
+* **Contact**: Twitter ([@mystalice](https://twitter.com/mystalice)), Discord (mystal#3600)
+* **Spoken Languages**: English
+* **Topics**: Beginner/Intermediate Rust, Game Programming (& Design), Rapid Prototyping, Product Management
 
 ### Geoff Shannon ([@RadicalZephyr](https://github.com/RadicalZephyr))
 * **Pronouns**: he/him
@@ -135,6 +153,11 @@
 * **Spoken Languages**: _English_, Italian, French
 * **Topics**: Async io, networking, distributed systems, game dev, compilers
 
+### Maher Khalil ([@maherkhalil07](https://github.com/maherkhalil07))
+* **Contact**:maherkhalil@outlook.com
+* **Spoken Languages**: English, Arabic
+* **Topics**: Beginners
+
 ### Mara Bos ([@m-ou-se](https://github.com/m-ou-se))
 * **Pronouns**: she/her
 * **Contact**: Email ([rust@m-ou.se](mailto:rust@m-ou.se)), Twitter ([@m_ou_se](https://twitter.com/m_ou_se)), IRC (M-ou-se on Freenode)
@@ -168,6 +191,12 @@
 * **Contact**: GitHub ([@flip1995](https://github.com/flip1995)), E-Mail ([hello@philkrones.com](mailto:hello@philkrones.com)), Discord ([flip1995#2683](https://discordapp.com/users/618807455651987476); not that active there)
 * **Spoken Languages**: German, English
 * **Topics**: Beginners, Clippy, Lints, Diagnostics
+
+### Raj ([@avranju](https://github.com/avranju/))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@avranju](https://twitter.com/avranju))
+* **Spoken Languages**: English
+* **Topics**: Networking, async I/O, beginner/intermediate Rust
 
 ### Ravi ([@wafflespeanut](https://github.com/wafflespeanut))
 * **Pronouns**: he/him
@@ -210,6 +239,12 @@
     * [LDAP guide](https://fy.blackhats.net.au/blog/html/pages/ldap_guide_part_1_foundations.html)
     * [Using rust generics to enforce db record state](https://fy.blackhats.net.au/blog/html/2019/04/13/using_rust_generics_to_enforce_db_record_state.html)
     * [CPU atomics and ordering explained](https://fy.blackhats.net.au/blog/html/2019/07/16/cpu_atomics_and_orderings_explained.html)
+
+### Xavier Lange ([@xrl](https://github.com/xrl))
+* **Pronouns**: he/him
+* **Contact**: Discord ([uint128_t#5905](https://discordapp.com/invite/rust-lang))
+* **Spoken Languages**: English, French
+* **Topics**: Actix, Kubernetes, Docker builds
 
 ### Zack M. Davis ([@zackmdavis](https://github.com/zackmdavis))
 * **Contact**: Twitter ([@zackmdavis](https://twitter.com/zackmdavis)), email ([code@zackmdavis.net](mailto:code@zackmdavis.net)), Discord (_zackmdavis#3944_)
