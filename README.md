@@ -25,7 +25,7 @@ All mentors and mentees are expected to abide by the Rust community [code of con
 
 ## New Mentors
 
-To apply, simply [open an issue](https://github.com/RustBeginners/awesome-rust-mentors/issues/new?assignees=&labels=mentor+application&template=new-mentor.md&title=). There is a template set up to help you get started quickly.
+To apply, please [open a PR](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution) that adds an entry for yourself to [`_includes/mentors.md`](https://github.com/RustBeginners/awesome-rust-mentors/blob/master/_includes/mentors.md).
 
 ### Expectations For Mentors
 

@@ -8,6 +8,12 @@ assignees: ''
 ---
 
 <!--
+To apply please edit `_includes/mentors.md` to add an entry for yourself and open a PR with the changes.
+
+If this is your first time contributing to open source check out https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution for guidance on how to submit a contribution.
+
+The various recommended sections are documented below along with an example of how to format it.
+
 Preferred Name: This is optional, you can go by just your online handle if you prefer.
 
 Github Handle: This can be any handle - GitHub is just recommended - but this section is not a substitute for the contact section.
@@ -30,10 +36,3 @@ Additional Resources: Any other learning resources that you maintain that you wo
 * **Spoken Languages**: English
 * **Topics**: Beginners, community outreach, cargo, clippy, tracing, CLI
 -->
-
-### Preferred Name ([@github_handle](url://to.github.com/handle))
-* **Pronouns**:
-* **Contact**:
-* **Spoken Languages**:
-* **Topics**:
-* **Additional Resources**:
