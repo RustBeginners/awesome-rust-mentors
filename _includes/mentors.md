@@ -140,12 +140,23 @@
 * **Contact**: Twitter ([@jam10o](https://twitter.com/jam10o)), Gitter Parity technical support chat: ([@joshua-mir](https://gitter.im/paritytech/parity))
 * **Spoken Languages**: English
 * **Topics**: Beginner Rust, cryptocurrency, blockchain, parity-ethereum, Substrate runtime development
-* **Additional Resources**: [Substrate Docs](https://substrate.dev), [Parity (Ethereum) Wiki](https://wiki.parity.io), [Substrate Community Resources](https://substrate.dev/en/community) 
+* **Additional Resources**: [Substrate Docs](https://substrate.dev), [Parity (Ethereum) Wiki](https://wiki.parity.io), [Substrate Community Resources](https://substrate.dev/en/community)
 
 ### Luca Barbato ([@lu-zero](https://github.com/lu-zero))
 * **Contact**: IRC (lu_zero on [freenode.net](http://webchat.freenode.net/?channels=%23rust-av&uio=d4)), Telegram ([lu_zero](https://telegram.me/lu_zero))
 * **Spoken Languages**: English, Italian
 * **Topics**: Multimedia, cargo, proc-macros, CLI
+
+### Luca Palmieri ([@LukeMathWalker](https://github.com/LukeMathWalker))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@algo_luca](https://twitter.com/algo_luca)), Email ([rust@lpalmieri.com](mailto:rust@lpalmieri.com))
+* **Spoken Languages**: English, Italian
+* **Topics**: Scientific computing, machine learning, CLI, backend development/enterprise software.
+* **Additional Resources**:
+    * [Taking ML to production with Rust: a 25x speedup](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/)
+    * [Scientific computing: a Rust adventure](https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/)
+    * [Writing enterprise software - a Rust experiment](https://docs.google.com/presentation/d/1r5CsiHwqABOTsrN5Dlbf4gCyhcL46NTv7qv9m5mBv-o/edit?usp=sharing)
+    * [A Machine learning introduction to ndarray (workshop)](https://github.com/LukeMathWalker/ndarray-koans)
 
 ### Lucio Franco ([@LucioFranco](https://github.com/LucioFranco))
 * **Pronouns**: he/him
@@ -213,7 +224,7 @@
 * **Additional Resources**: Video of a [talk I presented at Mozilla HQ on FlatBuffers in Rust](https://www.youtube.com/watch?v=YsiQDX20lXI).
 
 ### Roman Proskuryakov ([@kpp](https://github.com/kpp))
-* **Contact**: Github ([@kpp](https://github.com/kpp)), Email ([r.proskuryakoff@gmail.com](mailto:r.proskuryakoff@gmail.com)), Telegram ([gitkpp](https://t.me/gitkpp)), 
+* **Contact**: Github ([@kpp](https://github.com/kpp)), Email ([r.proskuryakoff@gmail.com](mailto:r.proskuryakoff@gmail.com)), Telegram ([gitkpp](https://t.me/gitkpp)),
 * **Spoken Languages**: English, Russian
 * **Topics**: Beginner/Intermediate Rust, async, futures, CI
 
