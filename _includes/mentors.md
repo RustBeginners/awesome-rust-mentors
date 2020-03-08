@@ -76,7 +76,7 @@
 * **Additional Resources**:
     * [My blog](https://phaazon.net/blog)
 
-## Dylan DPC ([@Dylan-DPC](https://github.com/Dylan-DPC))
+### Dylan DPC ([@Dylan-DPC](https://github.com/Dylan-DPC))
 * **Pronouns**: he/him
 * **Contact**: Discord (@dpc), Twitter ([@dpc_22](https://twitter.com/dpc_22))
 * **Spoken Languages**: _English_, German
