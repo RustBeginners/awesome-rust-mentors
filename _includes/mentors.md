@@ -203,6 +203,12 @@
 * **Spoken Languages**: German, English
 * **Topics**: Beginners, Clippy, Lints, Diagnostics
 
+### projektir ([@projektir](https://github.com/projektir))
+* **Pronouns**: she/they
+* **Contact**: GitHub ([@projektir](https://github.com/projektir)), E-Mail ([oprojektir@gmail.com](mailto:oprojektir@gmail.com))
+* **Spoken Languages**: English, Russian
+* **Topics**: Beginners, some async/futures, web servers and APIs (GraphQL)
+
 ### Raj ([@avranju](https://github.com/avranju/))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@avranju](https://twitter.com/avranju))
