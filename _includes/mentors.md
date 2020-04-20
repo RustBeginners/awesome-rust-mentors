@@ -48,19 +48,6 @@
 * **Spoken Languages**: _English_, Hindi
 * **Topics**: Beginners, async, distributed systems
 
-### Brian Anderson ([@brson](https://brson.github.io/))
-* **Pronouns**: he/him
-* **Contact**: Telegram ([MrBrianAnderson](https://t.me/MrBrianAnderson))
-* **Spoken Languages**: English
-* **Topics**: Rust tooling, ecosystem, greenfield projects, big ideas, Chinese community, connecting people. I work on TiKV, and have worked on the compiler, std, rustup, crater and others.
-* **Additional Resources**:
-    * [Practical Networked Applications in Rust](https://github.com/pingcap/talent-plan/tree/master/rust)
-    * [Rust Anthology](https://github.com/brson/rust-anthology)
-    * [basic-http-server](https://github.com/brson/basic-http-server)
-    * [my blog](https://brson.github.io/blog/index.html) and [other writings](https://brson.github.io/writing.html)
-    * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
-    * [Rust API Guidelines](https://rust-lang-nursery.github.io/api-guidelines/).
-
 ### Cyryl Płotnicki ([@cyplo](https://github.com/cyplo/))
 * **Pronouns**: he/him/they/them
 * **Contact**: Twitter ([@cyplo](https://twitter.com/cyplo))
