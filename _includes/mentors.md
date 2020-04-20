@@ -28,6 +28,12 @@
 * **Topics**: Beginners, CLI, iron, mustache, IPv6 & computer networking in general
 * **Additional Resources**: I would classify myself as an intermediate level in Rust, but I dabble at various levels, e.g. both lower-level like TACACS+ ([takaks](https://github.com/ayourtch/takaks)), FFI ([vpp-rust-plugin](https://github.com/vpp-dev/vpp-rust-plugin)), as well as higher level like web-apps ([rsp10](https://github.com/ayourtch/rsp10)) - will be happy to help and share my experience!
 
+### Bastian Kauschke ([@lcnr](https://github.com/lcnr))
+* **Pronouns**: he/him
+* **Contact**: Zulip ([@lcnr](https://rust-lang.zulipchat.com/))
+* **Spoken Languages**: _German_, English
+* **Topics**: Beginners, intermediates, traits, unsafe code, compilers (both **rustc** and [others](https://github.com/lcnr/computer))
+
 ### Ben ([@gnunicorn](https://github.com/gnunicorn))
 * **Pronouns**: he/him
 * **Contact**: Matrix ([@ben:matrix.parity.io](https://matrix.to/#/@ben:matrix.parity.io)), Gitter ([@gnunicorn](https://gitter.im/gnunicorn)), Twitter ([@gnunicornBen](https://twitter.com/gnunicornBen))
