@@ -8,4 +8,4 @@
 * **Repo**: https://github.com/sunjay/turtle
 * **Contact**: https://turtle.zulipchat.com/
 * **Spoken Languages**: English, _Canadian English_
-* **Topics**: Beginners-Intermediate, animated drawings, library design, // TODO sunjay fill out stuff ppl would learn contributing to turtle
+* **Topics**: Beginners-Intermediate, 2D Computer Graphics, Game Engine, Interprocess-Communication, Async, WebAssembly
