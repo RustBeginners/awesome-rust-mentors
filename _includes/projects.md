@@ -1,4 +1,4 @@
-### [Crates.io](https://crates.io/) - Create Animated Drawings Quickly and Easily in Rust
+### [Crates.io](https://crates.io/) - Rust Package Registry
 * **Repo**: https://github.com/rust-lang/crates.io
 * **Contact**: ops > #crates-io channel on https://discord.gg/rust-lang
 * **Spoken Languages**: English
