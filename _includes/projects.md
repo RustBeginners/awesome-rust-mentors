@@ -15,8 +15,8 @@
 <h1 id="projects-end"></h1>
 
 <script>
-let people = [];
-let e = document.getElementById("project-mentorship");
+var people = [];
+var e = document.getElementById("project-mentorship");
 while (e.nextSibling.nodeName != 'H3') e.nextSibling.remove();
 e = e.nextSibling;
 do {
