@@ -164,7 +164,7 @@
 
 ### Mara Bos ([@m-ou-se](https://github.com/m-ou-se))
 * **Pronouns**: she/her
-* **Contact**: Email ([rust@m-ou.se](mailto:rust@m-ou.se)), Twitter ([@m_ou_se](https://twitter.com/m_ou_se)), IRC (M-ou-se on Freenode)
+* **Contact**: Email ([rust@m-ou.se](mailto:rust@m-ou.se))
 * **Spoken Languages**: English, Dutch
 * **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes, shared memory, memory ordering/atomics/caches
 
