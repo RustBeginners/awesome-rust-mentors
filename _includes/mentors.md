@@ -261,6 +261,11 @@
 * **Spoken Languages**: English
 * **Topics**: Language basics, rustc development (especially diagnostics)
 
+### Andrew Lilley Brinker ([@alilleybrinker](https://github.com/alilleybrinker))
+* **Contact**: Twitter ([@alilleybrinker](https://twitter.com/alilleybrinker))
+* **Spoken Languages**: English
+* **Topics**: Language (beginner through advanced [I teach Rust]), FFI, Software Assurance, Type System
+
 <h1 id="mentors-end"></h1>
 
 <script>
