@@ -62,6 +62,12 @@
 * **Additional Resources**:
     * [My blog](https://phaazon.net/blog)
 
+### Doug Tangren ([@softprops](https://github.com/softprops))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@softprops](https://twitter.com/softprops)),  Email ([d.tangren@gmail.com](mailto://d.tangren@gmail.com)), Discord (softprops#1989)
+* **Spoken Languages**: English
+* **Topics**: Beginners, intermediates. Transitioning to Rust from Scala/Java/Typescript. Community. Open source. Effective std lib. Command line tools, AWS/Serverless.
+
 ### Dylan DPC ([@Dylan-DPC](https://github.com/Dylan-DPC))
 * **Pronouns**: he/him
 * **Contact**: Discord (@dpc), Twitter ([@dpc_22](https://twitter.com/dpc_22))
