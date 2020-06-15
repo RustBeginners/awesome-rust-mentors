@@ -259,6 +259,17 @@
 * **Spoken Languages**: English
 * **Topics**: Language (beginner through advanced [I teach Rust]), FFI, Software Assurance, Type System
 
+### Tyler Neely ([@spacejam](https://github.com/spacejam))
+* **Contact**: Discord ([@spacejam#5759 on the Rust discord](https://discord.gg/rust-lang))
+* **Spoken Languages**: English
+* **Topics**: Professional Rust trainer. Distributed systems, storage engines, io_uring, exploit development, lock-free programming, parallelism, fault injection, testing, systems engineering, consensus, eventual consistency, binary instrumentation, fuzzing, profiling, tuning, SIMD, FFI, kernel and hypervisor development.
+* **Additional Resources**:
+  - [error handling in Rust](https://sled.rs/errors)
+  - [Jepsen-proof engineering](https://sled.rs/simulation)
+  - [Fear and Loathing in Lock-Free Programming](https://medium.com/@tylerneely/fear-and-loathing-in-lock-free-programming-7158b1cdd50c)
+  - [model-based testing](https://medium.com/@tylerneely/reliable-systems-series-model-based-property-testing-e89a433b360)
+  - [building reliable infrastructure in Rust](https://www.youtube.com/watch?v=hMJEPWcSD8w)
+
 <h1 id="mentors-end"></h1>
 
 <script>
