@@ -22,7 +22,7 @@ Pronouns: This section is optional. If you'd prefer to leave this blank or remov
 
 Contact: Your preferred method of contact.
 
-Spoken Languages: Languages you're comfortable mentoring in; if you do not specify this, English will be assumed. Please _emphasise_ your preferred language if you list more than one.
+Spoken Languages: Languages you're comfortable mentoring in; if you do not specify this, English will be assumed. Please _emphasize_ your preferred language if you list more than one.
 
 Topics: Topics of interest or projects that you work on that you're comfortable mentoring.
 
