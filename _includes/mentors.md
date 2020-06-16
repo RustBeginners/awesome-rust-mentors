@@ -47,6 +47,12 @@
 * **Spoken Languages**: _English_, Hindi
 * **Topics**: Beginners, async, distributed systems
 
+### Chuck Pierce ([@charlespierce](https://github.com/charlespierce))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@chuckapierce](https://twitter.com/chuckapierce)), Email ([chuck@charlespierce.dev](mailto://chuck@charlespierce.dev)), Discord (Chuck Pierce#8737)
+* **Spoken Languages**: English
+* **Topics**: Beginner / Intermediate Rust, CLI, Developer Tools, Code Review
+
 ### Cyryl Płotnicki ([@cyplo](https://github.com/cyplo/))
 * **Pronouns**: he/him/they/them
 * **Contact**: Twitter ([@cyplo](https://twitter.com/cyplo))
