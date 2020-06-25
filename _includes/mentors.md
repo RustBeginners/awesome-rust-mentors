@@ -30,7 +30,7 @@
 
 ### Bastian Kauschke ([@lcnr](https://github.com/lcnr))
 * **Pronouns**: he/him
-* **Contact**: Zulip ([@lcnr](https://rust-lang.zulipchat.com/))
+* **Contact**: Zulip ([@lcnr](https://rust-lang.zulipchat.com/)), Twitter ([@lcnr7](https://twitter.com/lcnr7))
 * **Spoken Languages**: _German_, English
 * **Topics**: Beginners, intermediates, traits, unsafe code, compilers (both **rustc** and [others](https://github.com/lcnr/computer))
 
