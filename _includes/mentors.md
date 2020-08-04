@@ -279,8 +279,8 @@
 <h1 id="mentors-end"></h1>
 
 <script>
-let people = [];
-let e = document.getElementById("mentors");
+var people = [];
+var e = document.getElementById("individual-mentorship");
 while (e.nextSibling.nodeName != 'H3') e.nextSibling.remove();
 e = e.nextSibling;
 do {

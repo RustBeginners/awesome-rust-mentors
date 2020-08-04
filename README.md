@@ -42,7 +42,13 @@ Mentors are not expected to...
 * Be paid. This is a volunteer service. Please do not plan on asking mentees to pay you for your time.
 
 
-## Mentors
+## Project Mentorship
+
+See https://rustbeginners.github.io/awesome-rust-mentors/
+
+{% include projects.md %}
+
+## Individual Mentorship
 
 See https://rustbeginners.github.io/awesome-rust-mentors/
 
