@@ -5,6 +5,13 @@
 * **Recommended Experience**: Beginner - Intermediate
 * **Topics**: 2D Computer Graphics, Game Engine, Interprocess-Communication, Async, WebAssembly
 
+### [Dotenv-linter](https://dotenv-linter.github.io) - ⚡️ Lightning-fast linter for `.env` files. Written in Rust 🦀
+* **Repo**: https://github.com/dotenv-linter/dotenv-linter
+* **Contact**: https://twitter.com/mgrachev
+* **Spoken Languages**: English
+* **Recommended Experience**: Beginner
+* **Topics**: CLI, Linters, Dotenv
+
 <h1 id="projects-end"></h1>
 
 <script>
