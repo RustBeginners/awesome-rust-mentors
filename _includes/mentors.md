@@ -140,6 +140,12 @@
 * **Topics**: Beginner Rust, cryptocurrency, blockchain, parity-ethereum, Substrate runtime development
 * **Additional Resources**: [Substrate Docs](https://substrate.dev), [Parity (Ethereum) Wiki](https://wiki.parity.io), [Substrate Community Resources](https://substrate.dev/en/community)
 
+### Kevin Knapp ([@kbknapp](https://github.com/kbknapp))
+* **Pronouns**: he/him
+* **Contact** Twitter ([@thekbknapp](https://twitter.com/thekbknapp)), reddit ([/u/Kbknapp](https://reddit.com/user/Kbknapp)), Keybase ([kbknapp](https://keybase.io/kbknapp)
+* **Spoken Languages**: _English_, Spanish (intermediate)
+* **Topics**: Beginners, all things CLI, performance, API design, clap, public speaking, systems design
+
 ### Luca Barbato ([@lu-zero](https://github.com/lu-zero))
 * **Contact**: IRC (lu_zero on [freenode.net](http://webchat.freenode.net/?channels=%23rust-av&uio=d4)), Telegram ([lu_zero](https://telegram.me/lu_zero))
 * **Spoken Languages**: English, Italian
