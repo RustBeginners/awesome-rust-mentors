@@ -47,6 +47,12 @@
 * **Spoken Languages**: _English_, Hindi
 * **Topics**: Beginners, async, distributed systems
 
+### Cassie Meharry ([@cassiemeharry](https://github.com/cassiemeharry))
+* **Pronouns**: she/her
+* **Contact**: Email ([cassie@prophetessof.tech](mailto://cassie@prophetessof.tech)), Discord (bluejeans#1230)
+* **Spoken Languages**: English
+* **Topics**: Intermediate Rust, `async`/`await`, web, CLI tools, system design
+
 ### Chuck Pierce ([@charlespierce](https://github.com/charlespierce))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@chuckapierce](https://twitter.com/chuckapierce)), Email ([chuck@charlespierce.dev](mailto://chuck@charlespierce.dev)), Discord (Chuck Pierce#8737)
