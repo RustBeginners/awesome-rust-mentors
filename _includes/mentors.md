@@ -244,6 +244,15 @@
 * **Spoken Languages**: English
 * **Topics**: Beginners/the basics, developer tools, CLI, Rust–Swift/Objective-C interop
 
+### Tim McNamara ([@timClicks](https://github.com/timClicks))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@timClicks](https://twitter.com/timClicks)), Discord ([timClicks#4198](https://discord.gg/rust-lang)), Reddit ([u/timClicks](https://www.reddit.com/user/timClicks))
+* **Spoken Languages**: _English_, German
+* **Topics**: Rust for people who know Python/Ruby/JavaScript, data science, natural language processing
+* **Additional Resources**:
+   * Twitch stream: https://twitch.tv/timclicks
+   * YouTube channel: https://youtube.com/c/timClicks
+
 ### William ([@Firstyear](https://github.com/Firstyear/))
 * **Pronouns**: he/him/they/them
 * **Contact**: Twitter ([@Erstejahre](https://twitter.com/Erstejahre)), Email ([william@blackhats.net.au](mailto:william@blackhats.net.au))
