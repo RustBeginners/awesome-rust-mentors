@@ -253,7 +253,6 @@
    * Twitch stream: https://twitch.tv/timclicks
    * YouTube channel: https://youtube.com/c/timClicks
 
-
 ### William ([@Firstyear](https://github.com/Firstyear/))
 * **Pronouns**: he/him/they/them
 * **Contact**: Twitter ([@Erstejahre](https://twitter.com/Erstejahre)), Email ([william@blackhats.net.au](mailto:william@blackhats.net.au))
