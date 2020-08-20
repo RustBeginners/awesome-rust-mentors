@@ -282,6 +282,11 @@
   - [model-based testing](https://medium.com/@tylerneely/reliable-systems-series-model-based-property-testing-e89a433b360)
   - [building reliable infrastructure in Rust](https://www.youtube.com/watch?v=hMJEPWcSD8w)
 
+### Berwyn Jamesson ([@berwyn](https://github.com/berwyn))
+* **Contact**: Twitter ([@\_berwyn\_](https://twitter.com/_berwyn_)), Discord (berwyn#0956)
+* **Spoken Languages**: English
+* **Topics**: Beginners, code review, coding practices, Docker, cargo, clippy
+
 <h1 id="mentors-end"></h1>
 
 <script>
