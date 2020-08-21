@@ -12,6 +12,13 @@
 * **Recommended Experience**: Beginner
 * **Topics**: CLI, Linters, Dotenv
 
+### [OpenPowerlifting](https://www.openpowerlifting.org/) - Database, compiler, webserver, and data for the sport of Powerlifting. It's all Rust!
+* **Repo**: [https://gitlab.com/openpowerlifting/opl-data](https://gitlab.com/openpowerlifting/opl-data)
+* **Contact**: [https://openpl.zulipchat.com/](https://openpl.zulipchat.com/) (Say hi, or message Sean Stangl if you're shy!)
+* **Spoken Languages**: English, Esperanto
+* **Recommended Experience**: Beginner - Intermediate
+* **Topics**: Webservers, Compilers, Databases, Data Analysis
+
 <h1 id="projects-end"></h1>
 
 <script>
