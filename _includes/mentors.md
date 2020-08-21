@@ -148,7 +148,7 @@
 
 ### Kevin Knapp ([@kbknapp](https://github.com/kbknapp))
 * **Pronouns**: he/him
-* **Contact** Twitter ([@thekbknapp](https://twitter.com/thekbknapp)), reddit ([/u/Kbknapp](https://reddit.com/user/Kbknapp)), Keybase ([kbknapp](https://keybase.io/kbknapp)
+* **Contact** Twitter ([@thekbknapp](https://twitter.com/thekbknapp)), reddit ([/u/Kbknapp](https://reddit.com/user/Kbknapp)), Keybase ([kbknapp](https://keybase.io/kbknapp))
 * **Spoken Languages**: _English_, Spanish (intermediate)
 * **Topics**: Beginners, all things CLI, performance, API design, clap, public speaking, systems design
 
