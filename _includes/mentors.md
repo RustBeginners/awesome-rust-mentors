@@ -152,6 +152,11 @@
 * **Spoken Languages**: _English_, Spanish (intermediate)
 * **Topics**: Beginners, all things CLI, performance, API design, clap, public speaking, systems design
 
+### Lokathor ([@lokathor](https://github.com/lokathor))
+* **Contact**: Twitter ([@Lokathor](https://twitter.com/Lokathor)), Discord (_Lokathor#2627_)
+* **Spoken Languages**: English
+* **Topics**: Beginners, intermediates, unsafe, FFI, SIMD
+
 ### Luca Barbato ([@lu-zero](https://github.com/lu-zero))
 * **Contact**: IRC (lu_zero on [freenode.net](http://webchat.freenode.net/?channels=%23rust-av&uio=d4)), Telegram ([lu_zero](https://telegram.me/lu_zero))
 * **Spoken Languages**: English, Italian
