@@ -302,6 +302,15 @@
 * **Spoken Languages**: English
 * **Topics**: Beginners, code review, coding practices, Docker, cargo, clippy
 
+### T.J. Telan ([@tjtelan](https://github.com/tjtelan))
+* **Pronouns**: he/him/they/them
+* **Contact**: Twitter([@ThatTJTelan](https://twitter.com/ThatTJTelan))
+* **Spoken Languages**: English
+* **Topics**: CLI, DevOps (CI/CD, automation, tools, infrastructure), distributed systems, embedded systems, wasm, beginner/intermediate Rust
+* **Additional Resources**:
+   - My Blog - https://tjtelan.com/ (Or just the [Rust stuff](https://tjtelan.com/tags/rust/))
+   - My Twitch channel - https://www.twitch.tv/tjtelan
+
 <h1 id="mentors-end"></h1>
 
 <script>
