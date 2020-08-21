@@ -153,7 +153,7 @@
 * **Topics**: Beginners, all things CLI, performance, API design, clap, public speaking, systems design
 
 ### Lokathor ([@lokathor](https://github.com/lokathor))
-* **Contact**: Twitter (@Lokathor), Discord (Lokathor#2627)
+* **Contact**: Twitter ([@Lokathor](https://twitter.com/Lokathor)), Discord (_Lokathor#2627_)
 * **Spoken Languages**: English
 * **Topics**: Beginners, intermediates, unsafe, FFI, SIMD
 
