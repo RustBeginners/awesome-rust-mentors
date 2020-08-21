@@ -317,10 +317,17 @@ do {
     } while (!/^H[123]$/i.test(e.nodeName));
     people.push(person);
 } while (e.nodeName == 'H3');
-for (let i = people.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [people[i], people[j]] = [people[j], people[i]];
-}
+
+// sort mentors by their first name
+people.sort(function(a,b) {
+  return a[0].innerText.localeCompare(b[0].innerText);
+});
+
+//for (let i = people.length - 1; i > 0; i--) {
+//    const j = Math.floor(Math.random() * (i + 1));
+//    [people[i], people[j]] = [people[j], people[i]];
+//}
+
 people.forEach(person => {
     person.forEach(x => {
         e.parentNode.insertBefore(x, e);
