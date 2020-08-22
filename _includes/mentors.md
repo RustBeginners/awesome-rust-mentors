@@ -1,3 +1,10 @@
+### Ahmed Masud ([@ahmed-masud](https://github.com/ahmed-masud/))
+* **Pronouns**: he/him/they/them
+* **Contact**: Twitter:([@ahmedmasud](https://twitter.com/ahmedmasud),  Email ([ahmed.masud@saf.ai](mailto:ahmed.masud@saf.ai))
+* **Spoken Languages**: _English_, Hindi, Urdu, some French, translate.google.com in a pinch,
+* **Topics**: Beginners, Basics, CLI, Async, Machine-Learning, AI, File systems, Kernel development, opinions on managing complex projects
+* **Additional Resources**: I am a relative beginner in Rust, but I have a lot of experience in software engineering and systems design (~30 years) I will share all the ways I've made mistakes :-) so you don't have to repeat any of mine. 
+
 ### Amit Upadhyay ([@amitu](https://github.com/amitu))
 * **Pronouns**: Amit Upadhyay
 * **Contact**: Email ([amitu@acko.com](mailto:amitu@acko.com))
