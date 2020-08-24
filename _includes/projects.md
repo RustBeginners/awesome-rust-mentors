@@ -19,6 +19,14 @@
 * **Recommended Experience**: Beginner - Intermediate
 * **Topics**: Webservers, Compilers, Databases, Data Analysis
 
+### [cargo-tarpaulin](https://github.com/xd009642/tarpaulin) - Code coverage for rust, source analysis, tracing, reporting
+* **Repo** [https://github.com/xd009642/tarpaulin](https://github.com/xd009642/tarpaulin)
+* **Contact** Email ([danielmckenna93@gmail.com](mailto:danielmckenna93@gmail.com)) Discord (xd009642#3296)
+* **Spoken Languages**: English
+* **Recommended Experience**: All
+* **Topics**: Code coverage, CLI tools, Interprocess Communication, Binary analysis
+
+
 <h1 id="projects-end"></h1>
 
 <script>
