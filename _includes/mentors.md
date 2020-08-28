@@ -117,8 +117,8 @@
 * **Spoken Languages**: English
 * **Topics**: Beginner/Intermediate Rust, Game Programming (& Design), Rapid Prototyping, Product Management
 
-### Geoff Shannon ([@RadicalZephyr](https://github.com/RadicalZephyr))
-* **Pronouns**: he/him
+### Zephyr Shannon ([@RadicalZephyr](https://github.com/RadicalZephyr))
+* **Pronouns**: they/them
 * **Contact**: Discord (_@radicalzephyr#6728_)
 * **Spoken Languages**: English
 * **Topics**: Beginners, intermediates, async/await, macros (by-example and procedural), parsing, tokio
