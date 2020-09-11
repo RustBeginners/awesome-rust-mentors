@@ -204,6 +204,14 @@
 * **Spoken Languages**: English, Dutch
 * **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes, shared memory, memory ordering/atomics/caches
 
+### Marco Ieni ([@MarcoIeni](https://github.com/MarcoIeni))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@MarcoIeni](https://twitter.com/MarcoIeni)), LinkedIn ([@MarcoIeni](https://www.linkedin.com/in/MarcoIeni/)), Discord (MarcoIeni#7180)
+* **Spoken Languages**: English, Italian
+* **Topics**: Embedded, CLI, testing, beginners, basics (lifetimes, ownership, error handling..), developer tools, Continuous integration
+* **Additional Resources**:
+    * [Rust GitHub Template](https://rust-github.github.io/)
+    
 ### Mike Tang ([@daogangtang](https://github.com/daogangtang))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@daogangtang](https://twitter.com/daogangtang))
