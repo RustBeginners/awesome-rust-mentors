@@ -26,6 +26,13 @@
 * **Recommended Experience**: All
 * **Topics**: Code coverage, CLI tools, Interprocess Communication, Binary analysis
 
+### [Linfa](https://github.com/rust-ml/linfa/) - A Rust machine learning framework
+* **Repo**: [https://github.com/rust-ml/linfa](https://github.com/rust-ml/linfa)
+* **Contact**: https://rust-ml.zulipchat.com/
+* **Mentors**: https://github.com/quietlychris, https://github.com/bytesnake
+* **Spoken Languages**: English, German
+* **Recommended Experience**: Beginner - Intermediate
+* **Topics**: Machine Learning, Data analysis, Clustering, Algorithms
 
 <h1 id="projects-end"></h1>
 
