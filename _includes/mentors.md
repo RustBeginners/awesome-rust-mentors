@@ -198,12 +198,6 @@
 * **Spoken Languages**: English, Arabic
 * **Topics**: Beginners
 
-### Mara Bos ([@m-ou-se](https://github.com/m-ou-se))
-* **Pronouns**: she/her
-* **Contact**: Email ([rust@m-ou.se](mailto:rust@m-ou.se))
-* **Spoken Languages**: English, Dutch
-* **Topics**: Embedded, CLI, math, proc-macro, Linux, undefined behaviour, FFI, lifetimes, shared memory, memory ordering/atomics/caches
-
 ### Marco Ieni ([@MarcoIeni](https://github.com/MarcoIeni))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@MarcoIeni](https://twitter.com/MarcoIeni)), LinkedIn ([@MarcoIeni](https://www.linkedin.com/in/MarcoIeni/)), Discord (MarcoIeni#7180)
