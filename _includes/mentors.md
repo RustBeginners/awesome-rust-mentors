@@ -35,12 +35,6 @@
 * **Topics**: Beginners, CLI, iron, mustache, IPv6 & computer networking in general
 * **Additional Resources**: I would classify myself as an intermediate level in Rust, but I dabble at various levels, e.g. both lower-level like TACACS+ ([takaks](https://github.com/ayourtch/takaks)), FFI ([vpp-rust-plugin](https://github.com/vpp-dev/vpp-rust-plugin)), as well as higher level like web-apps ([rsp10](https://github.com/ayourtch/rsp10)) - will be happy to help and share my experience!
 
-### Bastian Kauschke ([@lcnr](https://github.com/lcnr))
-* **Pronouns**: he/him
-* **Contact**: Zulip ([@lcnr](https://rust-lang.zulipchat.com/)), Twitter ([@lcnr7](https://twitter.com/lcnr7))
-* **Spoken Languages**: _German_, English
-* **Topics**: Beginners, intermediates, traits, unsafe code, compilers (both **rustc** and [others](https://github.com/lcnr/computer))
-
 ### Bernardo Meurer ([@lovesegfault](https://github.com/lovesegfault/))
 * **Preferred Pronouns**: he/him
 * **Contact**: Twitter ([@lovesegfault](https://twitter.com/lovesegfault)), Email ([bernardo@standard.ai](mailto://bernardo@standard.ai))
@@ -165,6 +159,12 @@
 * **Contact** Twitter ([@thekbknapp](https://twitter.com/thekbknapp)), reddit ([/u/Kbknapp](https://reddit.com/user/Kbknapp)), Keybase ([kbknapp](https://keybase.io/kbknapp)
 * **Spoken Languages**: _English_, Spanish (intermediate)
 * **Topics**: Beginners, all things CLI, performance, API design, clap, public speaking, systems design
+
+### lcnr ([@lcnr](https://github.com/lcnr))
+* **Pronouns**: they/them
+* **Contact**: Zulip ([@lcnr](https://rust-lang.zulipchat.com/)), Twitter ([@lcnr7](https://twitter.com/lcnr7))
+* **Spoken Languages**: _English_, German
+* **Topics**: Beginners, intermediates, traits, unsafe code, compilers (both **rustc** and [others](https://github.com/lcnr/computer))
 
 ### Lokathor ([@lokathor](https://github.com/lokathor))
 * **Contact**: Twitter ([@Lokathor](https://twitter.com/Lokathor)), Discord (_Lokathor#2627_)
