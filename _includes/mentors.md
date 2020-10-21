@@ -1,3 +1,9 @@
+### Aaron Hill ([@Aaron1011])(https://github.com/Aaron1011)
+* **Contact** Discord (Aaron1011#7024), Email ([aa1ronham@gmail.com](mailto:aa1ronham@gmail.com))
+* **Spoken Languages**: English
+* **Topics**: Beginners, `rustc` (parser, diagnostics, traits, crate metadata), proc-macros, pin projections, miri
+* **Additional Resources**: I help maintain [pin-project](https://github.com/taiki-e/pin-project)
+
 ### Ahmed Masud ([@ahmed-masud](https://github.com/ahmed-masud/))
 * **Pronouns**: he/him/they/them
 * **Contact**: Twitter:([@ahmedmasud](https://twitter.com/ahmedmasud),  Email ([ahmed.masud@saf.ai](mailto:ahmed.masud@saf.ai))
