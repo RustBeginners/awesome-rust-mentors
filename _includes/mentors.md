@@ -146,6 +146,13 @@
 * **Spoken Languages**: English
 * **Topics**: Developer experiences, growing projects, Emulation, CLI, and Beginner/Intermediate Rust
 
+### Jordan Gregory ([@j4ng5y](https://github.com/j4ng5y))
+* **Pronouns**: he/him
+* **Contact**: Discord (_j4ng5y#0157_), Twitter ([@j4ng5y](https://twitter.com/j4ng5y)), Slack (_@Jordan Gregory_)
+* **Spoken Languages**: English
+* **Topics**: Beginner Rust, WASM, CLI, JavaScript Transition / Integration, Go Transition, Python Transition / Integration, Microservices, Kubernetes, Web APIs (RESTful / xRPC)
+* **Additonal Resources**: Meetup ([STLRust](https://www.meetup.com/STL-Rust/)), YouTube ([STLRust](https://youtube.com/channel/UCARDJrGiZxT6_fASoLr3B_g)), Twitch ([j4ng5y](https://www.twitch.tv/j4ng5y))
+
 ### Joshua Mir ([@joshua-mir](https://github.com/joshua-mir))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@jam10o](https://twitter.com/jam10o)), Gitter Parity technical support chat: ([@joshua-mir](https://gitter.im/paritytech/parity))
