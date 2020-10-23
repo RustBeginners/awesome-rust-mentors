@@ -1,4 +1,4 @@
-### Aaron Hill ([@Aaron1011])(https://github.com/Aaron1011)
+### Aaron Hill ([@Aaron1011](https://github.com/Aaron1011))
 * **Contact** Discord (Aaron1011#7024), Email ([aa1ronham@gmail.com](mailto:aa1ronham@gmail.com))
 * **Spoken Languages**: English
 * **Topics**: Beginners, `rustc` (parser, diagnostics, traits, crate metadata), proc-macros, pin projections, miri
