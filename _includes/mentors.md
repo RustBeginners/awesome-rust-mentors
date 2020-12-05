@@ -344,6 +344,14 @@
 * **Additional Resources**:
    - My Blog - https://tjtelan.com/ (Or just the [Rust stuff](https://tjtelan.com/tags/rust/))
    - My Twitch channel - https://www.twitch.tv/tjtelan
+   
+### Aaron Abramov ([@aaronabramov](https://github.com/aaronabramov))
+* **Pronouns**: he/him
+* **Contact**: Twitter([@aarondjents](https://twitter.com/aarondjents))
+* **Spoken Languages**: English
+* **Topics**: infra, graph algorithms, graph databases, software testing, testing frameworks, scaling, dev tooling, devx
+* **Additional Resources**:
+   - My Blog - [https://abramov.io/](https://abramov.io/)
 
 <h1 id="mentors-end"></h1>
 
