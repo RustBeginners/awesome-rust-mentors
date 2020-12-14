@@ -117,6 +117,12 @@
 * **Spoken Languages**: English
 * **Topics**: Beginner/Intermediate Rust, Game Programming (& Design), Rapid Prototyping, Product Management
 
+### Giles Cope ([@gilescope](https://github.com/gilescope))
+* **Pronouns**: he/his
+* **Contact**: Twitter ([@gilescope](https://twitter.com/gilescope)) / Reddit (u/gilescope)
+* **Spoken Languages**: English
+* **Topics**: Beginners
+
 ### Zephyr Shannon ([@RadicalZephyr](https://github.com/RadicalZephyr))
 * **Pronouns**: they/them
 * **Contact**: Discord (_@radicalzephyr#6728_)
