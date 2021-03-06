@@ -111,6 +111,12 @@
 * **Spoken Languages**: English, Spanish
 * **Topics**: Beginners, `rustc` (parser, diagnostics and in general).
 
+### Evan Chan ([@velvia](https://github.com/velvia))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@evanfchan](https://twitter.com/evanfchan)), Instagram([@platypus.arts](https://instagram.com/platypus.arts))
+* **Spoken Languages**: English, some Cantonese/Mandarin
+* **Topics**: Beginner/Intermediate, Transitioning from GC/JVM/Scala/Python, Data Structures, Data Processing, Databases, Compression, High Performance / Benchmarking / SIMD
+
 ### Gabe Martinez ([@mystal](https://github.com/mystal))
 * **Pronouns**: they/them
 * **Contact**: Twitter ([@mystalice](https://twitter.com/mystalice)), Discord (mystal#3600)
