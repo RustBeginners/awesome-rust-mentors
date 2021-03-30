@@ -41,6 +41,15 @@
 * **Topics**: Beginners, CLI, iron, mustache, IPv6 & computer networking in general
 * **Additional Resources**: I would classify myself as an intermediate level in Rust, but I dabble at various levels, e.g. both lower-level like TACACS+ ([takaks](https://github.com/ayourtch/takaks)), FFI ([vpp-rust-plugin](https://github.com/vpp-dev/vpp-rust-plugin)), as well as higher level like web-apps ([rsp10](https://github.com/ayourtch/rsp10)) - will be happy to help and share my experience!
 
+### Andy Thomason ([@andy-thomason](https://github.com/andy-thomason))
+* **Pronouns**: they/them
+* **Contact**: Twitter ([@quaternioso](https://twitter.com/quaternioso))
+* **Spoken Languages**: _English_, French, Spanish
+* **Topics**: Beginners/Intermediate, Iterators, Traits, Procedural macros, Bioinformatics, Performance, LLVM, Autovectorisation, Code transformation, Game development lecturer.
+* **Additional Resources**:
+    * [Oxford Rust Meetup](https://www.meetup.com/Oxford-Rust-Meetup-Group/)
+    * [Extendr R bindings](https://github.com/extendr)
+
 ### Bernardo Meurer ([@lovesegfault](https://github.com/lovesegfault/))
 * **Preferred Pronouns**: he/him
 * **Contact**: Twitter ([@lovesegfault](https://twitter.com/lovesegfault)), Email ([bernardo@standard.ai](mailto://bernardo@standard.ai))
