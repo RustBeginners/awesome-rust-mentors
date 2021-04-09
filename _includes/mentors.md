@@ -9,7 +9,7 @@
 * **Contact**: Twitter:([@ahmedmasud](https://twitter.com/ahmedmasud),  Email ([ahmed.masud@saf.ai](mailto:ahmed.masud@saf.ai))
 * **Spoken Languages**: _English_, Hindi, Urdu, some French, translate.google.com in a pinch,
 * **Topics**: Beginners, Basics, CLI, Async, Machine-Learning, AI, File systems, Kernel development, opinions on managing complex projects
-* **Additional Resources**: I am a relative beginner in Rust, but I have a lot of experience in software engineering and systems design (~30 years) I will share all the ways I've made mistakes :-) so you don't have to repeat any of mine. 
+* **Additional Resources**: I am a relative beginner in Rust, but I have a lot of experience in software engineering and systems design (~30 years) I will share all the ways I've made mistakes :-) so you don't have to repeat any of mine.
 
 ### Amit Upadhyay ([@amitu](https://github.com/amitu))
 * **Pronouns**: Amit Upadhyay
@@ -239,7 +239,7 @@
 * **Topics**: Embedded, CLI, testing, beginners, basics (lifetimes, ownership, error handling..), developer tools, Continuous integration
 * **Additional Resources**:
     * [Rust GitHub Template](https://rust-github.github.io/)
-    
+
 ### Mike Tang ([@daogangtang](https://github.com/daogangtang))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@daogangtang](https://twitter.com/daogangtang))
@@ -255,12 +255,6 @@
 * **Spoken Languages**: _English_, Spanish, German
 * **Topics**: Learning Rust from nothing or experienced newcomers
 * **Additional Resources**: I maintain [Static Assertions](https://github.com/nvzqz/static-assertions-rs), so I'd be happy to teach people how it works
-
-### Oli ([@oli-obk](https://github.com/oli-obk))
-* **Pronouns**: he/him
-* **Contact**: Zulip ([@oli](https://rust-lang.zulipchat.com/)), Github ([@oli-obk](https://github.com/oli-obk)), Discord ([oli#1337](https://discordapp.com/invite/rust-lang))
-* **Spoken Languages**: _German_, English
-* **Topics**: Miri, const eval, error messages and other diagnostics, optimizations, MIR
 
 ### Phil Krones ([@flip1995](https://github.com/flip1995))
 * **Pronouns**: he/him
@@ -365,7 +359,7 @@
 * **Additional Resources**:
    - My Blog - https://tjtelan.com/ (Or just the [Rust stuff](https://tjtelan.com/tags/rust/))
    - My Twitch channel - https://www.twitch.tv/tjtelan
-   
+
 ### Aaron Abramov ([@aaronabramov](https://github.com/aaronabramov))
 * **Pronouns**: he/him
 * **Contact**: Twitter([@aarondjents](https://twitter.com/aarondjents))
