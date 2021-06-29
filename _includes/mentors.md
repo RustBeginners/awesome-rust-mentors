@@ -368,6 +368,14 @@
 * **Additional Resources**:
    - My Blog - [https://abramov.io/](https://abramov.io/)
 
+### William Woodruff ([@woodruffw](https://github.com/woodruffw))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@8x5clPW2](https://twitter.com/8x5clPW2)), e-mail ([william@yossarian.net](mailto:william@yossarian.net?subject=Rust%20Mentorship))
+* **Spoken Languages**: English
+* **Topics**: Compilers (LLVM), systems programming, fuzzing, program analysis
+* **Additional Resources**:
+    - My Blog - [ENOSUCHBLOG](https://blog.yossarian.net)
+
 <h1 id="mentors-end"></h1>
 
 <script>
