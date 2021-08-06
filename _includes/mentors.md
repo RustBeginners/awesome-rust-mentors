@@ -376,6 +376,14 @@
 * **Additional Resources**:
     - My Blog - [ENOSUCHBLOG](https://blog.yossarian.net)
 
+### Thomas Gideon ([@cmdln](https://github.com/cmdln))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@cmdln](https://twitter.com/cmdln)), e-mail ([cmdln@thecommandline.net](mailto:cmdln@thecommandline.net?subject=Rust%20Mentorship)), Discord (_cmdln#9288_), Mastodon ([@cmdln@fosstodon.org](https://fosstodon.org/web/accounts/242961))
+* **Spoken Languages**: English
+* **Topics**: CLI, web services, web applications, WASM, DevOps, dev tools
+* **Additional Resources**:
+    - My Blog - [The Command Line](https://thecommandline.net)
+
 <h1 id="mentors-end"></h1>
 
 <script>
