@@ -156,10 +156,9 @@
 
 ### Jane Lusby ([@yaahc](https://github.com/yaahc))
 * **Pronouns**: she/her
-* **Contact**: Twitter ([@yaahc_](https://twitter.com/yaahc_))
+* **Contact**: Discord (Yaah#0001)
 * **Spoken Languages**: English
-* **Topics**: Beginners, community outreach, cargo, clippy, tracing, CLI, exercism.io, code review
-* **Aditional Resources**: [My work tracker](https://github.com/yaahc/prs/projects/1), I'm especially happy to mentor any of these issues
+* **Topics**: Error Handling, API Design, Beginners, community outreach, cargo, clippy, tracing, CLI, exercism.io, code review
 
 ### Jonathan Turner ([@jonathandturner](https://github.com/jonathandturner))
 * **Pronouns**: any gender pronoun
