@@ -267,13 +267,6 @@
 * **Spoken Languages**: English
 * **Topics**: Networking, async I/O, beginner/intermediate Rust
 
-### Ravi ([@wafflespeanut](https://github.com/wafflespeanut))
-* **Pronouns**: he/him
-* **Contact**: Twitter ([@wafflespeanut](https://twitter.com/wafflespeanut))
-* **Spoken Languages**: _Tamil_, English
-* **Topics**: Beginners, CLI, web, coding practices, clean + maintainable code.
-* **Additional Resources**: I'm actively working on [paperclip](https://github.com/wafflespeanut/paperclip), a WIP OpenAPI tooling library. I'd love to give a hand if anyone's interested!
-
 ### Robert Winslow ([@rw](https://github.com/rw))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@robert_winslow](https://twitter.com/robert_winslow))
