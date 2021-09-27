@@ -208,17 +208,6 @@
 * **Spoken Languages**: English, Italian
 * **Topics**: Multimedia, cargo, proc-macros, CLI
 
-### Luca Palmieri ([@LukeMathWalker](https://github.com/LukeMathWalker))
-* **Pronouns**: he/him
-* **Contact**: Twitter ([@algo_luca](https://twitter.com/algo_luca)), Email ([rust@lpalmieri.com](mailto:rust@lpalmieri.com))
-* **Spoken Languages**: English, Italian
-* **Topics**: Scientific computing, machine learning, CLI, backend development/enterprise software.
-* **Additional Resources**:
-    * [Taking ML to production with Rust: a 25x speedup](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/)
-    * [Scientific computing: a Rust adventure](https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/)
-    * [Writing enterprise software - a Rust experiment](https://docs.google.com/presentation/d/1r5CsiHwqABOTsrN5Dlbf4gCyhcL46NTv7qv9m5mBv-o/edit?usp=sharing)
-    * [A Machine learning introduction to ndarray (workshop)](https://github.com/LukeMathWalker/ndarray-koans)
-
 ### Lucio Franco ([@LucioFranco](https://github.com/LucioFranco))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@lucio_d_franco](https://twitter.com/lucio_d_franco))
