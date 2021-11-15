@@ -279,6 +279,12 @@
 * **Spoken Languages**: English
 * **Topics**: Beginners/the basics, developer tools, CLI, Rust–Swift/Objective-C interop
 
+### Thomas Adam ([@ThomasAdam](https://github.com/ThomasAdam))
+* **Pronouns**: he/him
+* **Contact**: Email ([thomas@xteddy.org](mailto:thomas@xteddy.org)), IRC ([thomas_adam](https://libera.chat/))
+* **Spoken Languages**: English
+* **Topics**: Beginner, CLI/TUI tools, FFI (C), Parsers, X11/Window management
+
 ### Tim McNamara ([@timClicks](https://github.com/timClicks))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@timClicks](https://twitter.com/timClicks)), Discord ([timClicks#4198](https://discord.gg/rust-lang)), Reddit ([u/timClicks](https://www.reddit.com/user/timClicks))
