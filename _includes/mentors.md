@@ -11,12 +11,6 @@
 * **Topics**: Beginners, Basics, CLI, Async, Machine-Learning, AI, File systems, Kernel development, opinions on managing complex projects
 * **Additional Resources**: I am a relative beginner in Rust, but I have a lot of experience in software engineering and systems design (~30 years) I will share all the ways I've made mistakes :-) so you don't have to repeat any of mine.
 
-### Amit Upadhyay ([@amitu](https://github.com/amitu))
-* **Pronouns**: Amit Upadhyay
-* **Contact**: Email ([amitu@acko.com](mailto:amitu@acko.com))
-* **Spoken Languages**: _English_, Hindi
-* **Topics**: Web Development, CLI, Database, [Realm](http://fifthtry.com/amitu/realm/)
-
 ### Ana Hobden ([@hoverbear](https://github.com/hoverbear))
 * **Contact:** Email ([ana@hoverbear.org](mailto:ana@hoverbear.org)), Twitter ([@a_hoverbear](https://twitter.com/a_hoverbear))
 * **Spoken Language:** _English_, some German, some Mandarin
