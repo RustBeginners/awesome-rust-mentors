@@ -159,8 +159,8 @@
 * **Spoken Languages**: English
 * **Topics**: Error Handling, API Design, Beginners, community outreach, cargo, clippy, tracing, CLI, exercism.io, code review
 
-### Jonathan Turner ([@jonathandturner](https://github.com/jonathandturner))
-* **Pronouns**: any gender pronoun
+### JT ([@jntrnr](https://github.com/jntrnr))
+* **Pronouns**: they/them
 * **Contact**: Email, Discord (_jturner#3961_), Twitter ([@jntrnr](https://twitter.com/jntrnr))
 * **Spoken Languages**: English
 * **Topics**: Developer experiences, growing projects, Emulation, CLI, and Beginner/Intermediate Rust
