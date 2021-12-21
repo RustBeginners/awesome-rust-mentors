@@ -13,9 +13,9 @@
 
 ### Amit Upadhyay ([@amitu](https://github.com/amitu))
 * **Pronouns**: Amit Upadhyay
-* **Contact**: Email ([amitu@acko.com](mailto:amitu@acko.com))
+* **Contact**: Email ([amitu@fifthtry.com](mailto:amitu@fifthtry.com))
 * **Spoken Languages**: _English_, Hindi
-* **Topics**: Web Development, CLI, Database, [Realm](http://fifthtry.com/amitu/realm/)
+* **Topics**: Web Development, CLI, Database, [Realm](https://www.amitu.com/realm/), [FTD](https://ftd.dev), [FPM](https://fpm.dev)
 
 ### Ana Hobden ([@hoverbear](https://github.com/hoverbear))
 * **Contact:** Email ([ana@hoverbear.org](mailto:ana@hoverbear.org)), Twitter ([@a_hoverbear](https://twitter.com/a_hoverbear))
