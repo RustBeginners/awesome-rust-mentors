@@ -15,10 +15,10 @@
 
 ### Amit Upadhyay ([@amitu](https://github.com/amitu))
 * **Pronouns**: Amit Upadhyay
-* **Contact**: Email ([amitu@acko.com](mailto:amitu@acko.com))
+* **Contact**: Email ([amitu@fifthtry.com](mailto:amitu@fifthtry.com))
 * **Spoken Languages**: _English_, Hindi
-* **Topics**: Web Development, CLI, Database, [Realm](http://fifthtry.com/amitu/realm/)
 * **Timezone**: IST (GMT+5.5)
+* **Topics**: Web Development, CLI, Database, [Realm](https://www.amitu.com/realm/), [FTD](https://ftd.dev), [FPM](https://fpm.dev)
 
 ### Ana Hobden ([@hoverbear](https://github.com/hoverbear))
 * **Contact:** Email ([ana@hoverbear.org](mailto:ana@hoverbear.org)), Twitter ([@a_hoverbear](https://twitter.com/a_hoverbear))
@@ -184,8 +184,8 @@
 * **Topics**: Error Handling, API Design, Beginners, community outreach, cargo, clippy, tracing, CLI, exercism.io, code review
 * **Timezone**: PST (GMT-8)
 
-### Jonathan Turner ([@jonathandturner](https://github.com/jonathandturner))
-* **Pronouns**: any gender pronoun
+### JT ([@jntrnr](https://github.com/jntrnr))
+* **Pronouns**: they/them
 * **Contact**: Email, Discord (_jturner#3961_), Twitter ([@jntrnr](https://twitter.com/jntrnr))
 * **Spoken Languages**: English
 * **Topics**: Developer experiences, growing projects, Emulation, CLI, and Beginner/Intermediate Rust
