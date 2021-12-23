@@ -4,6 +4,7 @@
 * **Spoken Languages**: English, _Canadian English_
 * **Recommended Experience**: Beginner - Intermediate
 * **Topics**: 2D Computer Graphics, Game Engine, Interprocess-Communication, Async, WebAssembly
+* **Timezone**: PST (GMT-8)
 
 ### [Dotenv-linter](https://dotenv-linter.github.io) - ⚡️ Lightning-fast linter for `.env` files. Written in Rust 🦀
 * **Repo**: https://github.com/dotenv-linter/dotenv-linter
@@ -11,6 +12,7 @@
 * **Spoken Languages**: English
 * **Recommended Experience**: Beginner
 * **Topics**: CLI, Linters, Dotenv
+* **Timezone**: MSK (GMT+3)
 
 ### [OpenPowerlifting](https://www.openpowerlifting.org/) - Database, compiler, webserver, and data for the sport of Powerlifting. It's all Rust!
 * **Repo**: [https://gitlab.com/openpowerlifting/opl-data](https://gitlab.com/openpowerlifting/opl-data)
@@ -18,6 +20,7 @@
 * **Spoken Languages**: English, Esperanto
 * **Recommended Experience**: Beginner - Intermediate
 * **Topics**: Webservers, Compilers, Databases, Data Analysis
+* **Timezone**: MST (GMT-7)
 
 ### [cargo-tarpaulin](https://github.com/xd009642/tarpaulin) - Code coverage for rust, source analysis, tracing, reporting
 * **Repo** [https://github.com/xd009642/tarpaulin](https://github.com/xd009642/tarpaulin)
@@ -25,6 +28,7 @@
 * **Spoken Languages**: English
 * **Recommended Experience**: All
 * **Topics**: Code coverage, CLI tools, Interprocess Communication, Binary analysis
+* **Timezone**: GMT
 
 ### [Linfa](https://github.com/rust-ml/linfa/) - A Rust machine learning framework
 * **Repo**: [https://github.com/rust-ml/linfa](https://github.com/rust-ml/linfa)
