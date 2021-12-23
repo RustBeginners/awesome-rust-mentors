@@ -233,6 +233,7 @@
 * **Contact**: Twitter ([@Lokathor](https://twitter.com/Lokathor)), Discord (_Lokathor#2627_)
 * **Spoken Languages**: English
 * **Topics**: Beginners, intermediates, unsafe, FFI, SIMD
+* **Timezone**: MST (GMT-7)
 
 ### Luca Barbato ([@lu-zero](https://github.com/lu-zero))
 * **Contact**: IRC (lu_zero on [freenode.net](http://webchat.freenode.net/?channels=%23rust-av&uio=d4)), Telegram ([lu_zero](https://telegram.me/lu_zero))
