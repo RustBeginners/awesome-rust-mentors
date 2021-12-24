@@ -113,7 +113,7 @@
 ### Dylan DPC ([@Dylan-DPC](https://github.com/Dylan-DPC))
 * **Pronouns**: he/him
 * **Contact**: Discord (@dpc), Twitter ([@dpc_22](https://twitter.com/dpc_22))
-* **Spoken Languages**: English, German
+* **Spoken Languages**: _English_, German
 * **Topics**: Open to anything that is sort of in the general-purpose domain
 * **Timezone**: CET (GMT+1)
 
@@ -218,14 +218,14 @@
 ### Kevin Knapp ([@kbknapp](https://github.com/kbknapp))
 * **Pronouns**: he/him
 * **Contact** Twitter ([@thekbknapp](https://twitter.com/thekbknapp)), reddit ([/u/Kbknapp](https://reddit.com/user/Kbknapp)), Keybase ([kbknapp](https://keybase.io/kbknapp)
-* **Spoken Languages**: English, Spanish (intermediate)
+* **Spoken Languages**: _English_, Spanish (intermediate)
 * **Topics**: Beginners, all things CLI, performance, API design, clap, public speaking, systems design
 * **Timezone**: EST (GMT-5)
 
 ### lcnr ([@lcnr](https://github.com/lcnr))
 * **Pronouns**: they/them
 * **Contact**: Zulip ([@lcnr](https://rust-lang.zulipchat.com/)), Twitter ([@lcnr7](https://twitter.com/lcnr7))
-* **Spoken Languages**: English, German
+* **Spoken Languages**: _English_, German
 * **Topics**: Beginners, intermediates, traits, unsafe code, compilers (both **rustc** and [others](https://github.com/lcnr/computer))
 * **Timezone**: CET (GMT+1)
 
@@ -244,7 +244,7 @@
 ### Lucio Franco ([@LucioFranco](https://github.com/LucioFranco))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@lucio_d_franco](https://twitter.com/lucio_d_franco))
-* **Spoken Languages**: English, Italian, French
+* **Spoken Languages**: _English_, Italian, French
 * **Topics**: Async io, networking, distributed systems, game dev, compilers
 * **Timezone**: EST (GMT-5)
 
