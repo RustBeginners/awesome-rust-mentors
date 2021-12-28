@@ -462,7 +462,18 @@ Array
   .forEach(el => addAnchorLink(el))
 
 
-const createSVG = () => {
+const addAnchorLink = el => {
+    const anchor = document.createElement('a')
+    anchor.href = `#${el.id}`
+    const svg = createSVGForAnchorLink()
+    anchor.appendChild(svg)
+
+    const anchorSpan = document.createElement('span')
+    anchorSpan.appendChild(anchor)
+    el.appendChild(anchorSpan)
+}
+
+const createSVGForAnchorLink = () => {
     // use anchor link SVG icon from https://heroicons.com/
     let svg = document.createElementNS("http://www.w3.org/2000/svg", "svg")
     svg.setAttribute("class", "h-5 w-5")
@@ -481,14 +492,4 @@ const createSVG = () => {
     return svg
 }
 
-const addAnchorLink = el => {
-    const anchor = document.createElement('a')
-    anchor.href = `#${el.id}`
-    const svg = createSVG()
-    anchor.appendChild(svg)
-
-    const anchorSpan = document.createElement('span')
-    anchorSpan.appendChild(anchor)
-    el.appendChild(anchorSpan)
-}
 </script>
