@@ -365,15 +365,6 @@
 * **Topics**: Language basics, rustc development (especially diagnostics)
 * **Timezone**: PST (GMT-8)
 
-### Andrew Lilley Brinker ([@alilleybrinker](https://github.com/alilleybrinker))
-* **Pronouns**: he/him
-* **Contact**: Twitter ([@alilleybrinker](https://twitter.com/alilleybrinker))
-* **Spoken Languages**: English
-* **Topics**: Software security, software assurance, software supply chain security.
-* **Timezone**: PST (GMT-8)
-* **Additional Resources**:
-    * [Possible Rust](https://www.possiblerust.com/)
-
 ### Tyler Neely ([@spacejam](https://github.com/spacejam))
 * **Contact**: Discord ([@spacejam#5759 on the Rust discord](https://discord.gg/rust-lang))
 * **Spoken Languages**: English
