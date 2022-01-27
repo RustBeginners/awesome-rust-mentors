@@ -419,6 +419,15 @@
 * **Additional Resources**:
     - My Blog - [The Command Line](https://thecommandline.net)
 
+### Narasimha Prasanna HN ([@Narasimha1997](https://github.com/Narasimha1997))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@prasannahn1997](https://twitter.com/prasannahn1997)), Discord: ([prasanna1997#0309](ttps://discordapp.com/invite/rust-lang)), E-mail: ([narasimhaprasannahn@gmail.com](mailto:narasimhaprasannahn@gmail.com?subject=Rust%20Mentorship)), Linkedin: [Narasimha Prasanna HN](https://www.linkedin.com/in/narasimha-prasanna-hn-17aa89146/)
+* **Spoken Languages**: English, Hindi
+* **Topics**: Programming Languages, System Programming, Web Development, DevOps, Microservices
+* **Timezone**: IST (GMT+5:30)
+* **Additional Resources**:
+    - My Website - [Narasimha1997.github.io](https://narasimha1997.github.io/#/)
+
 <h1 id="mentors-end"></h1>
 
 <script>
