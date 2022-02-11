@@ -454,14 +454,6 @@ people.forEach(person => {
 });
 e.remove();
 
-Array
-  .from(document.querySelectorAll("h3"))
-  .filter(el => !['Expectations For Mentees', 'Missing Mentor Topics', 'Exercism.io', 'Expectations For Mentors']
-        .includes(el.innerText)
-  )
-  .forEach(el => addAnchorLink(el))
-
-
 const addAnchorLink = el => {
     const anchor = document.createElement('a')
     anchor.href = `#${el.id}`
@@ -491,5 +483,10 @@ const createSVGForAnchorLink = () => {
 
     return svg
 }
-
+Array
+  .from(document.querySelectorAll("h3"))
+  .filter(el => !['Expectations For Mentees', 'Missing Mentor Topics', 'Exercism.io', 'Expectations For Mentors']
+        .includes(el.innerText)
+  )
+  .forEach(el => addAnchorLink(el))
 </script>
