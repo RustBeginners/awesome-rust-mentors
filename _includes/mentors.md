@@ -320,8 +320,8 @@
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@nerosnm](https://twitter.com/nerosnm)), Email ([soren@neros.dev](mailto:soren@neros.dev))
 * **Spoken Languages**: English
-* **Topics**: Beginners/the basics, developer tools, CLI, Rust–Swift/Objective-C interop
-* **Timezone**: CET (GMT+1)
+* **Topics**: Beginners/the basics, developer tools, command-line interfaces, parsers, interpreters
+* **Timezone**: GMT
 
 ### Thomas Adam ([@ThomasAdam](https://github.com/ThomasAdam))
 * **Pronouns**: he/him
