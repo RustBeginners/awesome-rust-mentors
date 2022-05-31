@@ -177,12 +177,15 @@
     * [learn-rendy](https://github.com/rust-tutorials/learn-rendy/)
     * [Introduction to PBR](https://www.grayolson.me/blog/posts/pbr-intro/)<Paste>
 
-### Jane Lusby ([@yaahc](https://github.com/yaahc))
+### Jane Losare-Lusby ([@yaahc](https://github.com/yaahc))
 * **Pronouns**: she/her
-* **Contact**: Discord (Yaah#0001)
+* **Contact**: Zulip ([Jane Losare-Lusby](https://rust-lang.zulipchat.com/#narrow/pm-with/220273-user220273))
 * **Spoken Languages**: English
-* **Topics**: Error Handling, API Design, Beginners, community outreach, cargo, clippy, tracing, CLI, exercism.io, code review
+* **Topics**: [Error Handling Project Group](https://rust-lang.zulipchat.com/#narrow/stream/257204-project-error-handling), [Library Team](https://rust-lang.zulipchat.com/#narrow/stream/219381-t-libs)
 * **Timezone**: PST (GMT-8)
+* **Additional Resources**:
+    * [Getting Involved In And Navigating The Rust Open Source Community](https://yaah.dev/getting-involved)
+    * [Imposter Syndrome](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html)
 
 ### JT ([@jntrnr](https://github.com/jntrnr))
 * **Pronouns**: they/them
