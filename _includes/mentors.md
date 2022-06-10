@@ -239,7 +239,7 @@
 * **Timezone**: MST (GMT-7)
 
 ### Luca Barbato ([@lu-zero](https://github.com/lu-zero))
-* **Contact**: IRC (lu_zero on [freenode.net](http://webchat.freenode.net/?channels=%23rust-av&uio=d4)), Telegram ([lu_zero](https://telegram.me/lu_zero))
+* **Contact**: IRC (lu_zero on [libera.chat](https://web.libera.chat/)), Telegram ([lu_zero](https://telegram.me/lu_zero))
 * **Spoken Languages**: English, Italian
 * **Topics**: Multimedia, cargo, proc-macros, CLI
 * **Timezone**: CET (GMT+1)
