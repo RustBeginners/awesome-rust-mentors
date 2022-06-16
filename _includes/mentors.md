@@ -306,11 +306,11 @@
 * **Timezone**: PST (GMT-8)
 * **Additional Resources**: Video of a [talk I presented at Mozilla HQ on FlatBuffers in Rust](https://www.youtube.com/watch?v=YsiQDX20lXI).
 
-### Roman Proskuryakov ([@kpp](https://github.com/kpp))
-* **Contact**: Github ([@kpp](https://github.com/kpp)), Email ([r.proskuryakoff@gmail.com](mailto:r.proskuryakoff@gmail.com)), Telegram ([gitkpp](https://t.me/gitkpp)),
+### Roman ([@kpp](https://github.com/kpp))
+* **Contact**: Telegram ([gitkpp](https://t.me/gitkpp))
 * **Spoken Languages**: English, Russian
 * **Topics**: Beginner/Intermediate Rust, async, futures, CI
-* **Timezone**: MSK (GMT+3)
+* **Timezone**: Yerevan (GMT+4)
 
 ### Shady Khalifa ([@shekohex](https://github.com/shekohex))
 * **Pronouns**: he/him
