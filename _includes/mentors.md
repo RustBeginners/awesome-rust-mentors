@@ -210,6 +210,13 @@
 * **Timezone**: CET (GMT+1)
 * **Additional Resources**: [Substrate Docs](https://substrate.dev), [Parity (Ethereum) Wiki](https://wiki.parity.io), [Substrate Community Resources](https://substrate.dev/en/community)
 
+### Karthik Ravikanti ([@plumenator](https://github.com/plumenator))
+* **Pronouns**: he/him
+* **Contact**: Check GitHub profile
+* **Spoken Languages**: English, Hindi, Japanese, Telugu
+* **Topics**: Books, Code Reviews, Pair programming, Teaching (Rust beginners or programming beginners)
+* **Timezone**: SGT (GMT+8)
+
 ### Kevin Flansburg ([@kflansburg](https://github.com/kflansburg))
 * **Pronouns**: he/him
 * **Contact**: email (in GitHub profile), reddit ([/u/chicago_moose](https://www.reddit.com/user/chicago_moose))
