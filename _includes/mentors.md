@@ -94,15 +94,6 @@
 * **Timezone**: GMT
 * **Additional Resources**: I sometimes write about [Rust](https://blog.cyplo.dev/tags/rust/) on my [blog](https://blog.cyplo.dev/)
 
-### Dimitri Sabadie ([@phaazon](https://github.com/phaazon))
-* **Pronouns**: he/him
-* **Contact**: Twitter ([@phaazon](https://twitter.com/phaazon_)), IRC (phaazon on Libera), Email ([dimitri.sabadie@gmail.com](mailto://dimitri.sabadie@gmail.com)), Discord (phaazon#0545)
-* **Spoken Languages**: French, English
-* **Topics**: Graphics programming, procedural macros, unsafe bindings & FFI, functional programming & type theory, parsing, type-driven architectures, low-level optimizations, cargo tools, writing RFCs.
-* **Timezone**: CET (GMT+1)
-* **Additional Resources**:
-    * [My blog](https://phaazon.net/blog)
-
 ### Doug Tangren ([@softprops](https://github.com/softprops))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@softprops](https://twitter.com/softprops)),  Email ([d.tangren@gmail.com](mailto://d.tangren@gmail.com)), Discord (softprops#1989)
