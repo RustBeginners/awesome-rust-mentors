@@ -259,7 +259,7 @@
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@MarcoIeni](https://twitter.com/MarcoIeni)), LinkedIn ([@MarcoIeni](https://www.linkedin.com/in/MarcoIeni/)), Discord (MarcoIeni#7180)
 * **Spoken Languages**: English, Italian
-* **Topics**: Embedded, CLI, testing, beginners, basics (lifetimes, ownership, error handling..), developer tools, Continuous integration
+* **Topics**: CLI, testing, beginners, error handling, developer tools, Continuous integration, distributed systems.
 * **Timezone**: CET (GMT+1)
 * **Additional Resources**:
     * [Rust GitHub Template](https://rust-github.github.io/)
