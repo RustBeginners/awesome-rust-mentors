@@ -223,13 +223,6 @@
 * **Topics**: Beginners, all things CLI, performance, API design, clap, public speaking, systems design
 * **Timezone**: EST (GMT-5)
 
-### lcnr ([@lcnr](https://github.com/lcnr))
-* **Pronouns**: they/them
-* **Contact**: Zulip ([@lcnr](https://rust-lang.zulipchat.com/)), Twitter ([@lcnr7](https://twitter.com/lcnr7))
-* **Spoken Languages**: _English_, German
-* **Topics**: Beginners, intermediates, traits, unsafe code, compilers (both **rustc** and [others](https://github.com/lcnr/computer))
-* **Timezone**: CET (GMT+1)
-
 ### Lokathor ([@lokathor](https://github.com/lokathor))
 * **Contact**: Twitter ([@Lokathor](https://twitter.com/Lokathor)), Discord (_Lokathor#2627_)
 * **Spoken Languages**: English
