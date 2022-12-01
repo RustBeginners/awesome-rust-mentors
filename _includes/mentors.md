@@ -429,6 +429,15 @@
 * **Additional Resources**:
     - My Website - [Narasimha1997.github.io](https://narasimha1997.github.io/#/)
 
+### Nrishinghananda Roy ([@royrustdev](https://github.com/royrustdev))
+
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@royrustdev](https://twitter.com/royrustdev)), Email ([royrustdev@gmail.com](mailto:royrustdev@gmail.com)), Linkedin: [Nrishinghananda Roy](https://www.linkedin.com/in/royrustdev/)
+* **Spoken Languages**: English, Hindi, Bengali
+* **Topics**: Beginners, code review, pair-programming
+* **Timezone**: IST (GMT+5:30)
+* **Additional Resources**: [royrustdev.com](https://royrustdev.com/)
+
 <h1 id="mentors-end"></h1>
 
 <script>
