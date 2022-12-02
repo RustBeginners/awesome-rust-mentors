@@ -230,12 +230,6 @@
 * **Topics**: Beginners, all things CLI, performance, API design, clap, public speaking, systems design
 * **Timezone**: EST (GMT-5)
 
-### Lokathor ([@lokathor](https://github.com/lokathor))
-* **Contact**: Twitter ([@Lokathor](https://twitter.com/Lokathor)), Discord (_Lokathor#2627_)
-* **Spoken Languages**: English
-* **Topics**: Beginners, intermediates, unsafe, FFI, SIMD
-* **Timezone**: MST (GMT-7)
-
 ### Luca Barbato ([@lu-zero](https://github.com/lu-zero))
 * **Contact**: IRC (lu_zero on [libera.chat](https://web.libera.chat/)), Telegram ([lu_zero](https://telegram.me/lu_zero))
 * **Spoken Languages**: English, Italian
