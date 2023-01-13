@@ -283,6 +283,14 @@
 * **Topics**: Beginners, Clippy, Lints, Diagnostics
 * **Timezone**: CET (GMT+1)
 
+### pinkforest ([@pinkforest](https:///github.com/pinkforest))
+* **Pronouns**: she/her
+* **Contact**: pinkforest_edu@pm.me
+* **Spoken Languages**: English
+* **Topics**: Community, Program/Project Management, Sustainability, Documentation, Maintenance, Security, Concurrency, Networking, Infrastructure, Testing
+* **Additional Resources**: I'm maintainer and contributor quite few things and more than happy to get people involved in any of those
+* **Timezone**: Any
+
 ### Raj ([@avranju](https://github.com/avranju/))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@avranju](https://twitter.com/avranju))
