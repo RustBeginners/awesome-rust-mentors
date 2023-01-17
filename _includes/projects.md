@@ -1,3 +1,10 @@
+### [RustSec](https://rustsec.org) - RustSec Security Advisory Database
+* **Repo**: https://github.com/rustsec/advisory-db
+* **Contact**: Message pinkforest(she/her) in [Zulip](https://rust-lang.zulipchat.com/#narrow/stream/146229-wg-secure-code)
+* **Spoken Languages**: English
+* **Recommended Experience**: Any
+* **Topics**: Security, Advisories
+
 ### [Turtle](https://turtle.rs/) - Create Animated Drawings Quickly and Easily in Rust
 * **Repo**: https://github.com/sunjay/turtle
 * **Contact**: https://turtle.zulipchat.com/
