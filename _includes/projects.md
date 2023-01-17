@@ -4,7 +4,6 @@
 * **Spoken Languages**: English
 * **Recommended Experience**: Any
 * **Topics**: Security, Advisories
-* **Timezone**: Any
 
 ### [Turtle](https://turtle.rs/) - Create Animated Drawings Quickly and Easily in Rust
 * **Repo**: https://github.com/sunjay/turtle

@@ -289,7 +289,6 @@
 * **Spoken Languages**: English
 * **Topics**: Community, Program/Project Management, Sustainability, Documentation, Maintenance, Security, Concurrency, Networking, Infrastructure, Testing
 * **Additional Resources**: I'm maintainer and contributor quite few things and more than happy to get people involved in any of those
-* **Timezone**: Any
 
 ### Raj ([@avranju](https://github.com/avranju/))
 * **Pronouns**: he/him
