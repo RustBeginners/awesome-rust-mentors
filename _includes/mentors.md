@@ -20,12 +20,6 @@
 * **Timezone**: IST (GMT+5.5)
 * **Topics**: Web Development, CLI, Database, [Realm](https://www.amitu.com/realm/), [FTD](https://ftd.dev), [FPM](https://fpm.dev)
 
-### Ana Hobden ([@hoverbear](https://github.com/hoverbear))
-* **Contact:** Email ([ana@hoverbear.org](mailto:ana@hoverbear.org)), Twitter ([@a_hoverbear](https://twitter.com/a_hoverbear))
-* **Spoken Language:** _English_, some German, some Mandarin
-* **Topics:** Distributed systems, software evolution, infrastructure, architecture, chaos testing, workshops, proc-macros
-* **Timezone**: PST (GMT-8)
-
 ### Andre Bogus ([@llogiq](https://github.com/llogiq))
 * **Pronouns**: he/him
 * **Contact** Twitter ([@llogiq](https://twitter.com/llogiq)), reddit ([/u/llogiq](https://reddit.com/user/llogiq))
