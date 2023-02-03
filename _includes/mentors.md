@@ -195,9 +195,9 @@
 * **Timezone**: CET (GMT+1)
 * **Additional Resources**: [Substrate Docs](https://substrate.dev), [Parity (Ethereum) Wiki](https://wiki.parity.io), [Substrate Community Resources](https://substrate.dev/en/community)
 
-### Joshua Nelson ([@jyn514](https://github.com/jyn514))
-* **Pronouns**: he/him
-* **Contact**: Discord ([jynelson#5849](https://discord.gg/rust-lang-community), Zulip ([@jyn514](https://rust-lang.zulipchat.com/#narrow/pm-with/232545-jyn514)), Twitter ([@joshuayn514](https://twitter.com/joshuayn514))
+### jyn ([@jyn514](https://github.com/jyn514))
+* **Pronouns**: they/them
+* **Contact**: Discord ([jynelson#5849](https://discord.gg/rust-lang-community), Zulip ([@jyn](https://rust-lang.zulipchat.com/#narrow/pm-with/232545-jyn)), Twitter ([@jynelson514](https://twitter.com/jynelson514))
 * **Spoken Languages**: English
 * **Topics**: Intermediate Rust, Rustc contributions, devtools
 * **Timezone**: CST (GMT-6)
