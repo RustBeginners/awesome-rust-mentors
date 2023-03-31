@@ -272,7 +272,7 @@
 
 ### Phil Krones ([@flip1995](https://github.com/flip1995))
 * **Pronouns**: he/him
-* **Contact**: GitHub ([@flip1995](https://github.com/flip1995)), E-Mail ([hello@philkrones.com](mailto:hello@philkrones.com)), Discord ([flip1995#2683](https://discordapp.com/users/618807455651987476); not that active there)
+* **Contact**: Zulip ([flip1995](https://rust-lang.zulipchat.com/#narrow/pm-with/264664-user264664), GitHub ([@flip1995](https://github.com/flip1995)), E-Mail ([hello@philkrones.com](mailto:hello@philkrones.com))
 * **Spoken Languages**: German, English
 * **Topics**: Beginners, Clippy, Lints, Diagnostics
 * **Timezone**: CET (GMT+1)
