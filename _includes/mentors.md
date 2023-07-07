@@ -102,6 +102,13 @@
 * **Topics**: Open to anything that is sort of in the general-purpose domain
 * **Timezone**: CET (GMT+1)
 
+### Edmund Cape ([@edmundsecho](https://github.com/edmundsecho))
+* **Pronouns**: he/him
+* **Contact**: Discord (@edmundsecho), Twitter ([@edmundsecho](https://twitter.com/EdmundsEcho))
+* **Spoken Languages**: _English_, French
+* **Topics**: Beginners, intermediates. Open to anything (I can't think of anything that I would exclude)
+* **Timezone**: EST (GMT-5)
+
 ### Eliza Weisman ([@hawkw](https://github.com/hawkw))
 * **Pronouns**: she/her
 * **Contact**: Email ([eliza@buoyant.io](mailto://eliza@buoyant.io)), Discord (_mycoliza#5146_)
