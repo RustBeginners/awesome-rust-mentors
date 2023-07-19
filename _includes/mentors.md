@@ -137,9 +137,9 @@
 * **Topics**: Beginner/Intermediate, Transitioning from GC/JVM/Scala/Python, Data Structures, Data Processing, Databases, Compression, High Performance / Benchmarking / SIMD
 * **Timezone**: PST (GMT-8)
 
-### Gabe Martinez ([@mystal](https://github.com/mystal))
+### Gabriel Martinez ([@mystal](https://github.com/mystal))
 * **Pronouns**: they/them
-* **Contact**: Twitter ([@mystalice](https://twitter.com/mystalice)), Discord (mystal#3600)
+* **Contact**: Twitter ([@mystalice](https://twitter.com/mystalice)), Discord (mystal)
 * **Spoken Languages**: English
 * **Topics**: Beginner/Intermediate Rust, Game Programming (& Design), Rapid Prototyping, Product Management
 * **Timezone**: PST (GMT-8)
