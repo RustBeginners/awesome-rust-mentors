@@ -52,6 +52,12 @@
     * [Oxford Rust Meetup](https://www.meetup.com/Oxford-Rust-Meetup-Group/)
     * [Extendr R bindings](https://github.com/extendr)
 
+### Aumetra ([@aumetra](https://github.com/aumetra))
+* **Pronouns**: they/them
+* **Contact**: Fediverse ([@0x0@corteximplant.com](https://corteximplant.com/@0x0)), [Matrix](https://matrix.to/#/@aumetra:matrix.org), Email (on GitHub profile)
+* **Spoken Languages**: _English_, German
+* **Topics**: Beginners, intermediates, networking, async I/O, web (server-side), (open to other stuff, feel free to ask!)
+
 ### Bernardo Meurer ([@lovesegfault](https://github.com/lovesegfault/))
 * **Preferred Pronouns**: he/him
 * **Contact**: Twitter ([@lovesegfault](https://twitter.com/lovesegfault)), Email ([bernardo@meurer.org](mailto://bernardo@meurer.org))
