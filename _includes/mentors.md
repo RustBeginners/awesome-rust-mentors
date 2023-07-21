@@ -368,12 +368,6 @@
 * **Topics**: Actix, Kubernetes, Docker builds
 * **Timezone**: PST (GMT-8)
 
-### Zack M. Davis ([@zackmdavis](https://github.com/zackmdavis))
-* **Contact**: Twitter ([@zackmdavis](https://twitter.com/zackmdavis)), email ([code@zackmdavis.net](mailto:code@zackmdavis.net)), Discord (_zackmdavis#3944_)
-* **Spoken Languages**: English
-* **Topics**: Language basics, rustc development (especially diagnostics)
-* **Timezone**: PST (GMT-8)
-
 ### Tyler Neely ([@spacejam](https://github.com/spacejam))
 * **Contact**: Discord ([@spacejam#5759 on the Rust discord](https://discord.gg/rust-lang))
 * **Spoken Languages**: English
