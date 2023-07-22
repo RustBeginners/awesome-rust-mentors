@@ -256,15 +256,6 @@
 * **Topics**: Beginners
 * **Timezone**: AST (GMT+3)
 
-### Marco Ieni ([@MarcoIeni](https://github.com/MarcoIeni))
-* **Pronouns**: he/him
-* **Contact**: Twitter ([@MarcoIeni](https://twitter.com/MarcoIeni)), LinkedIn ([@MarcoIeni](https://www.linkedin.com/in/MarcoIeni/)), Discord (MarcoIeni#7180)
-* **Spoken Languages**: English, Italian
-* **Topics**: CLI, testing, beginners, error handling, developer tools, Continuous integration, distributed systems.
-* **Timezone**: CET (GMT+1)
-* **Additional Resources**:
-    * [Rust GitHub Template](https://rust-github.github.io/)
-
 ### Mike Tang ([@daogangtang](https://github.com/daogangtang))
 * **Pronouns**: he/him
 * **Contact**: Twitter ([@daogangtang](https://twitter.com/daogangtang))
