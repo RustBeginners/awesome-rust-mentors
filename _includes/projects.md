@@ -45,6 +45,13 @@
 * **Recommended Experience**: Beginner - Intermediate
 * **Topics**: Machine Learning, Data analysis, Clustering, Algorithms
 
+### [Playa]([https://github.com/whizzes/playa](https://github.com/whizzes/playa)) - Decentralized Social Platform
+* **Repo**: https://github.com/whizzes/playa
+* **Contact**: https://discord.gg/yde6mcgs2C
+* **Spoken Languages**: English, Spanish
+* **Recommended Experience**: Beginner - Intermediate
+* **Topics**: Server, Backend, GraphQL, Postgres, CLI, E2E tests, Domain Driven Design
+
 <h1 id="projects-end"></h1>
 
 <script>
