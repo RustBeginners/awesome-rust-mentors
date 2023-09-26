@@ -222,14 +222,6 @@
 * **Topics**: Books, Code Reviews, Pair programming, Teaching (Rust beginners or programming beginners)
 * **Timezone**: SGT (GMT+8)
 
-### Kevin Flansburg ([@kflansburg](https://github.com/kflansburg))
-* **Pronouns**: he/him
-* **Contact**: email (in GitHub profile), reddit ([/u/chicago_moose](https://www.reddit.com/user/chicago_moose))
-* **Spoken Languages**: English
-* **Topics**: Rust, Microservices, Kubernetes, Kafka, Websockets, Automated Trading
-* **Timezone**: EST (GMT-5)
-* **Additional Resources**: [Krustlet](https://github.com/deislabs/krustlet), [KrustletCRI](https://github.com/kflansburg/krustlet-cri)
-
 ### Kevin Knapp ([@kbknapp](https://github.com/kbknapp))
 * **Pronouns**: he/him
 * **Contact** Twitter ([@thekbknapp](https://twitter.com/thekbknapp)), reddit ([/u/Kbknapp](https://reddit.com/user/Kbknapp)), Keybase ([kbknapp](https://keybase.io/kbknapp)
