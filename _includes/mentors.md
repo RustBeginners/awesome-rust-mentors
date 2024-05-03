@@ -257,12 +257,12 @@
 * **Additional Resources**:
   - [rust.cc](https://rust.cc)
   - [rustforce.net](https://rustforce.net)
-  - 
-### Miguel Raz ([@daogangtang](https://github.com/miguelraz))
+
+### Miguel Raz ([@miguelraz](https://github.com/miguelraz))
 * **Pronouns**: he/him
 * **Contact**: Discord (miguelraz)
 * **Spoken Languages**: English, Spanish, some German
-* **Topics**: Beginners, community meetup, SIMD, performance, LLVM
+* **Topics**: Beginners, SIMD, performance, LLVM, MIR
 * **Timezone**: Mexico City time (GMT-6)
 * **Additional Resources**:
   - [Scalability, but at what COST?](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf)
