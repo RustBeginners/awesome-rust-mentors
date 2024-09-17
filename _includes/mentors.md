@@ -185,6 +185,15 @@
     * [Getting Involved In And Navigating The Rust Open Source Community](https://yaah.dev/getting-involved)
     * [Imposter Syndrome](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html)
 
+### John Arundel ([@bitfield](https://github.com/bitfield))
+* **Pronouns**: he/him
+* **Contact**: Email ([john@bitfieldconsulting.com](mailto:john@bitfieldconsulting.com)), Twitter ([@bitfield](https://twitter.com/bitfield))
+* **Spoken Languages**: English
+* **Topics**: Rust for beginners, Rust for people who know Go, CLI/DevOps tools, Kubernetes, software design/architecture, testing, readability, exercism.io
+* **Timezone**: GMT
+* **Additional Resources**:
+    * [Website](https://bitfieldconsulting.com)
+
 ### JT ([@jntrnr](https://github.com/jntrnr))
 * **Pronouns**: they/them
 * **Contact**: Email, Discord (_jturner#3961_), Twitter ([@jntrnr](https://twitter.com/jntrnr))
