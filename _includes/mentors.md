@@ -13,6 +13,15 @@
 * **Timezone**: EST (GMT-5)
 * **Additional Resources**: I am a relative beginner in Rust, but I have a lot of experience in software engineering and systems design (~30 years) I will share all the ways I've made mistakes :-) so you don't have to repeat any of mine.
 
+### Alexander Pyattaev ([@alexpyattaev](https://github.com/alexpyattaev))
+* **Pronouns**: he/him
+* **Contact**:  Email ([alex.pyattaev@gmail.com](mailto:alex.pyattaev@gmail.com)).
+* **Spoken Languages**: _English_, Finnish, Russian,
+* **Topics**: Networking and servers, gamedev [spatial trees](https://github.com/alexpyattaev/spatialtree), performance optimization (SIMD, ECS, threading), convincing people to use rust with [evidence](https://github.com/alexpyattaev/perls), machine learning, FFI with [Python](https://github.com/PyO3/pyo3) and [Roc](https://github.com/alexpyattaev/roc-plugin-example)
+* **Timezone**: EET (GMT+2)
+* **Additional Resources**: Started as a hardware designer, I have gradually moved "up the stack" all the way to system-level simulations and massively concurrent web servers. I uphold the ideal of "knowing your hardware", so I'm happy to dive into unsafe concurrent code when the opportunity presents itself.
+
+
 ### Amit Upadhyay ([@amitu](https://github.com/amitu))
 * **Pronouns**: Amit Upadhyay
 * **Contact**: Email ([amitu@fifthtry.com](mailto:amitu@fifthtry.com))
