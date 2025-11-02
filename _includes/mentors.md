@@ -154,9 +154,9 @@
 
 ### Gabriel Martinez ([@mystal](https://github.com/mystal))
 * **Pronouns**: they/them
-* **Contact**: Twitter ([@mystalice](https://twitter.com/mystalice)), Discord (mystal)
+* **Contact**: BlueSky ([@mystal.cafe](https://bsky.app/profile/mystal.cafe)), Mastodon ([@mystal@toot.cat](https://toot.cat/@mystal))
 * **Spoken Languages**: English
-* **Topics**: Beginner/Intermediate Rust, Game Programming (& Design), Rapid Prototyping, Product Management
+* **Topics**: Beginner/Intermediate Rust, Game Programming & Design, Rapid Prototyping, Product Management
 * **Timezone**: PST (GMT-8)
 
 ### Giles Cope ([@gilescope](https://github.com/gilescope))
