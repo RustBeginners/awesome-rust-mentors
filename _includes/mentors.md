@@ -36,13 +36,6 @@
 * **Topics**: Procedural macros, writing lints, unsafe code, performance, bit twiddling, public speaking
 * **Timezone**: CET (GMT+1)
 
-### Andreas Fischer ([@Vengarioth](https://github.com/vengarioth))
-* **Pronouns**: he/him
-* **Contact**: Twitter ([@vengarioth](https://twitter.com/vengarioth)), Email ([vengarioth@gmail.com](mailto:vengarioth@gmail.com))
-* **Spoken Languages**: _German_, English
-* **Topics**: Games programming, graphics & rendering, netcode (games), parsers, starting a company in germany
-* **Timezone**: CET (GMT+1)
-
 ### Andrew Yourtchenko ([@ayourtch](https://github.com/ayourtch))
 * **Pronouns**: he/him/them
 * **Contact**: Twitter ([@ayourtch](https://twitter.com/ayourtch))
@@ -60,6 +53,13 @@
 * **Additional Resources**:
     * [Oxford Rust Meetup](https://www.meetup.com/Oxford-Rust-Meetup-Group/)
     * [Extendr R bindings](https://github.com/extendr)
+
+### Ashlyn Fischer ([@Vengarioth](https://github.com/vengarioth))
+* **Pronouns**: she/fae
+* **Contact**: Bsky ([@ashlynartificia](https://bsky.app/profile/ashlynartificia.bsky.social)), Email ([opensource@deviru.de](mailto:opensource@deviru.de))
+* **Spoken Languages**: _German_, English
+* **Topics**: Games programming, graphics & rendering, netcode (games), compiler stuff
+* **Timezone**: CET (GMT+1)
 
 ### Aumetra ([@aumetra](https://github.com/aumetra))
 * **Pronouns**: they/them
