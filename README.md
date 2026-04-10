@@ -1,5 +1,6 @@
 # [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/) - [github](https://github.com/RustBeginners/awesome-rust-mentors)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=RustBeginners_awesome-rust-mentors) - Follow developers on GitHub and get a feed of what they star and build.
 ## New mentees
 
 Welcome to awesome rust mentors! This project is a curated list of Rustaceans who are ready and willing to act as mentors to new Rustaceans looking to get more involved in the language and/or its community. If that sounds interesting to you, check out the rules and our list of mentors, pick one at random or maybe based off of their bio, and make a friend! 
