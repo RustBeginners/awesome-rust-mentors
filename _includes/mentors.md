@@ -5,6 +5,14 @@
 * **Timezone**: EST (GMT-5)
 * **Additional Resources**: I help maintain [pin-project](https://github.com/taiki-e/pin-project)
 
+### Adefemi Adeoye ([@opeolluwa](https://github.com/opeolluwa))
+* **Contact** Discord (opeolluwa#), Email ([opeolluwa-dev@yahoo.com](mailto:opeolluwa-dev@yahoo.com))
+* **Spoken Languages**: English
+* **Topics**: Beginners, Developer tooling, CLI, Backend Development
+* **Timezone**: (GMT+1)
+* **Additional Resources**: I am one of the editors for [This Week in Rust](https://github.com/rust-lang/this-week-in-rust)
+
+
 ### Ahmed Masud ([@ahmed-masud](https://github.com/ahmed-masud/))
 * **Pronouns**: he/him/they/them
 * **Contact**: Twitter:([@ahmedmasud](https://twitter.com/ahmedmasud),  Email ([ahmed.masud@saf.ai](mailto:ahmed.masud@saf.ai))
